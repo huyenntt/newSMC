@@ -1,0 +1,6 @@
+<map id="pnapi::PetriNet::ReductionCache::addPlace" name="pnapi::PetriNet::ReductionCache::addPlace">
+<area shape="rect" id="node3" href="$a00086_a1f574589a29da2cbef3e730741ebb263.html#a1f574589a29da2cbef3e730741ebb263" title="elimination of identical places" alt="" coords="224,5,376,49"/>
+<area shape="rect" id="node7" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="224,71,376,115"/>
+<area shape="rect" id="node10" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="224,138,376,182"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="424,79,576,107"/>
+</map>

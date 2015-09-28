@@ -1,0 +1,4 @@
+<map id="pnapi::PetriNet::reduce_isEqual" name="pnapi::PetriNet::reduce_isEqual">
+<area shape="rect" id="node3" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="205,5,357,49"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="405,13,557,41"/>
+</map>

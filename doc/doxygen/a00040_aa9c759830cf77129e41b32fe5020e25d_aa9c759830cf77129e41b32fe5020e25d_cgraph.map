@@ -1,0 +1,6 @@
+<map id="pnapi::Node::setName" name="pnapi::Node::setName">
+<area shape="rect" id="node3" href="$a00092_a5644f1f8f75d95e61e24fdffbd9f39c9.html#a5644f1f8f75d95e61e24fdffbd9f39c9" title="inform the net about a new history of a node" alt="" coords="204,47,404,91"/>
+<area shape="rect" id="node5" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="459,5,651,33"/>
+<area shape="rect" id="node7" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="704,85,853,113"/>
+<area shape="rect" id="node9" href="$a00092_a0950c8302cd21dae26017663887382ce.html#a0950c8302cd21dae26017663887382ce" title="make a node accessable in a net by its name" alt="" coords="455,106,655,150"/>
+</map>

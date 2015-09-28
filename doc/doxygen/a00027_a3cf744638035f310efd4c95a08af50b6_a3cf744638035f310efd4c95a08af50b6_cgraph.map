@@ -1,0 +1,4 @@
+<map id="pnapi::formula::Operator::Operator" name="pnapi::formula::Operator::Operator">
+<area shape="rect" id="node3" href="$a00040_ab0d0b36c5ab1842bb8832e71b4c62671.html#ab0d0b36c5ab1842bb8832e71b4c62671" title="returns the petri net this node belongs to" alt="" coords="219,5,381,33"/>
+<area shape="rect" id="node5" href="$a00028_a67f734a197be7484bdc9049334a76691.html#a67f734a197be7484bdc9049334a76691" title="get the place concerned by this proposition" alt="" coords="213,55,387,99"/>
+</map>

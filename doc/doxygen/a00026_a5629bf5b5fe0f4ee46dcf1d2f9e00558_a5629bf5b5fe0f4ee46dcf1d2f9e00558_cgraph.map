@@ -1,0 +1,5 @@
+<map id="pnapi::formula::Negation::replacePlace" name="pnapi::formula::Negation::replacePlace">
+<area shape="rect" id="node3" href="$a00026_afffbfa9180a41f585bb4a0f9fc1f1d37.html#afffbfa9180a41f585bb4a0f9fc1f1d37" title="copy constructor" alt="" coords="213,5,373,49"/>
+<area shape="rect" id="node5" href="$a00016_ae6deae0c3142dcb3c8f3c46818da2584.html#ae6deae0c3142dcb3c8f3c46818da2584" title="replace place references" alt="" coords="216,71,371,115"/>
+<area shape="rect" id="node7" href="$a00016_af358d45de7cfe4744de3785de41ce71a.html#af358d45de7cfe4744de3785de41ce71a" title="create a deep copy of the formula" alt="" coords="421,71,576,115"/>
+</map>

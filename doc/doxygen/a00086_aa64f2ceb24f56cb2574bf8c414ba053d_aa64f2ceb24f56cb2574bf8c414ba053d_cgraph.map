@@ -1,0 +1,9 @@
+<map id="pnapi::PetriNet::deleteArc" name="pnapi::PetriNet::deleteArc">
+<area shape="rect" id="node3" href="$a00092_ad5aa66cf5757f472514bed369b584729.html#ad5aa66cf5757f472514bed369b584729" title="inform nodes abput removed arc between them" alt="" coords="223,98,423,142"/>
+<area shape="rect" id="node5" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="485,5,635,33"/>
+<area shape="rect" id="node7" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="475,55,645,83"/>
+<area shape="rect" id="node9" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="473,106,647,134"/>
+<area shape="rect" id="node11" href="$a00006_aea4a709ab5f56a613448f561f5191724.html#aea4a709ab5f56a613448f561f5191724" title="transition" alt="" coords="480,157,640,185"/>
+<area shape="rect" id="node13" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="501,207,619,251"/>
+<area shape="rect" id="node15" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="697,207,815,251"/>
+</map>

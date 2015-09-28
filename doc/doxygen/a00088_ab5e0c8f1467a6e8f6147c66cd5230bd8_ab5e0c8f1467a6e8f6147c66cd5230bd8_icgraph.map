@@ -1,0 +1,12 @@
+<map id="pnapi::Place::setTokenCount" name="pnapi::Place::setTokenCount">
+<area shape="rect" id="node3" href="$a00086_a503afb77da7be07c4777da5faf3e0f4e.html#a503afb77da7be07c4777da5faf3e0f4e" title="classical normalization through expanding the interface" alt="" coords="240,5,408,49"/>
+<area shape="rect" id="node10" href="$a00078_a18ad1fa140e715d5cbb1ff7fb5ccb06a.html#a18ad1fa140e715d5cbb1ff7fb5ccb06a" title="pnapi::parser::woflan\l::yy::BisonParser::parse" alt="" coords="247,71,401,115"/>
+<area shape="rect" id="node12" href="$a00042_ae6b307e4480bf47cadc4fdf8055effab.html#ae6b307e4480bf47cadc4fdf8055effab" title="pnapi::parser::lola\l::yy::BisonParser::parse" alt="" coords="247,138,401,182"/>
+<area shape="rect" id="node14" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="247,205,401,249"/>
+<area shape="rect" id="node16" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="248,271,400,315"/>
+<area shape="rect" id="node20" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="248,338,400,382"/>
+<area shape="rect" id="node23" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="248,405,400,449"/>
+<area shape="rect" id="node5" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="672,13,840,41"/>
+<area shape="rect" id="node7" href="$a00086_a1eec9931ba1f409f0d906255a2c71d41.html#a1eec9931ba1f409f0d906255a2c71d41" title="normalization defined in [Aalst07]" alt="" coords="456,34,624,78"/>
+<area shape="rect" id="node18" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="464,346,616,374"/>
+</map>

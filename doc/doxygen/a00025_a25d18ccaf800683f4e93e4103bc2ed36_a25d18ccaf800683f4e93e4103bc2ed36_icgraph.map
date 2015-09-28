@@ -1,0 +1,5 @@
+<map id="pnapi::formula::Interval::exclude" name="pnapi::formula::Interval::exclude">
+<area shape="rect" id="node3" href="$a00023_a6313ad95673e7c6add80aa0ea9aec516.html#a6313ad95673e7c6add80aa0ea9aec516" title="get the valid interval of a place" alt="" coords="205,5,381,49"/>
+<area shape="rect" id="node5" href="$a00025_a152ca6037e8ff0da28032a0e4039ea1c.html#a152ca6037e8ff0da28032a0e4039ea1c" title="intersection of two intervals" alt="" coords="219,71,368,115"/>
+<area shape="rect" id="node7" href="$a00025_a9a640d6b79ba6bec650c76e0bead8f02.html#a9a640d6b79ba6bec650c76e0bead8f02" title="union of two intervals" alt="" coords="219,138,368,182"/>
+</map>

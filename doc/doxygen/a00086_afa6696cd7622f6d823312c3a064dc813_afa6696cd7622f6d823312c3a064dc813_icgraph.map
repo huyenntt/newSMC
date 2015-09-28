@@ -1,0 +1,4 @@
+<map id="pnapi::PetriNet::reduce_emptyPostset" name="pnapi::PetriNet::reduce_emptyPostset">
+<area shape="rect" id="node3" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="205,5,357,49"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="405,13,557,41"/>
+</map>

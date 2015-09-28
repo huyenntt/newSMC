@@ -1,0 +1,38 @@
+<map id="pnapi::PetriNet::createFromSTG" name="pnapi::PetriNet::createFromSTG">
+<area shape="rect" id="node3" href="$a00030_ad3419760d8405e48b42c937990f381e6.html#ad3419760d8405e48b42c937990f381e6" title="adding an input label" alt="" coords="285,14,451,58"/>
+<area shape="rect" id="node7" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="309,98,427,142"/>
+<area shape="rect" id="node15" href="$a00030_a4a824b9405ca6763f61e58b811422d34.html#a4a824b9405ca6763f61e58b811422d34" title="adding an output label" alt="" coords="280,165,456,209"/>
+<area shape="rect" id="node19" href="$a00030_a39d6b8a8467d404f88949e364f2d2ba9.html#a39d6b8a8467d404f88949e364f2d2ba9" title="adding a synchronous label" alt="" coords="263,231,473,275"/>
+<area shape="rect" id="node23" href="$a00007_a6a068cd732d3fd0df532631ed735729f.html#a6a068cd732d3fd0df532631ed735729f" title="forces all places not mentioned by the formula to be empty" alt="" coords="287,298,449,342"/>
+<area shape="rect" id="node31" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="284,365,452,393"/>
+<area shape="rect" id="node33" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="277,415,459,443"/>
+<area shape="rect" id="node37" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="265,466,471,494"/>
+<area shape="rect" id="node40" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="292,517,444,545"/>
+<area shape="rect" id="node44" href="$a00030_abf3b377e79aa82641ab1e6546e11558b.html#abf3b377e79aa82641ab1e6546e11558b" title="find a certain label" alt="" coords="284,567,452,595"/>
+<area shape="rect" id="node46" href="$a00086_a8b8093681a01caa4e57743570dfe242b.html#a8b8093681a01caa4e57743570dfe242b" title="find a node by name" alt="" coords="549,669,712,697"/>
+<area shape="rect" id="node48" href="$a00086_ad5c2148de0cc433ad5ec13c833f96394.html#ad5c2148de0cc433ad5ec13c833f96394" title="find a place by name" alt="" coords="285,669,451,697"/>
+<area shape="rect" id="node51" href="$a00086_a90c37d5baac5da014b1d223d3951d3e2.html#a90c37d5baac5da014b1d223d3951d3e2" title="find a transition by name" alt="" coords="273,719,463,747"/>
+<area shape="rect" id="node54" href="$a00007_a3476a377f05909ba4bd81384debc3de1.html#a3476a377f05909ba4bd81384debc3de1" title="returns the formula" alt="" coords="276,770,460,798"/>
+<area shape="rect" id="node56" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="297,821,439,849"/>
+<area shape="rect" id="node58" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="311,871,425,915"/>
+<area shape="rect" id="node74" href="$a00002_a5dd574b303de180be588e8b205f352a1.html#a5dd574b303de180be588e8b205f352a1" title="parses stream contents with the associated parser" alt="" coords="275,938,461,982"/>
+<area shape="rect" id="node76" href="$a00086_abba33101b23a042388f07bc72062b5a9.html#abba33101b23a042388f07bc72062b5a9" title="helper function for STG2oWFN" alt="" coords="293,1005,443,1033"/>
+<area shape="rect" id="node78" href="$a00006_ab0ab2c65c433d0d9c12b545b38b347e8.html#ab0ab2c65c433d0d9c12b545b38b347e8" title="set the weight" alt="" coords="297,1055,439,1083"/>
+<area shape="rect" id="node5" href="$a00089_acdfaf4daa7aaaf2e5b93d9c7066ddc6f.html#acdfaf4daa7aaaf2e5b93d9c7066ddc6f" title="adding an input label" alt="" coords="545,5,716,33"/>
+<area shape="rect" id="node9" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="544,55,717,83"/>
+<area shape="rect" id="node11" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="572,106,689,150"/>
+<area shape="rect" id="node13" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="815,106,932,150"/>
+<area shape="rect" id="node17" href="$a00089_a6971b10c99ddc20ad5dfbaa9bb343f9c.html#a6971b10c99ddc20ad5dfbaa9bb343f9c" title="adding an output label" alt="" coords="540,173,721,201"/>
+<area shape="rect" id="node21" href="$a00089_a8e1c81412c6715f6bdf461c50cf74551.html#a8e1c81412c6715f6bdf461c50cf74551" title="adding a synchronous label" alt="" coords="539,223,723,267"/>
+<area shape="rect" id="node25" href="$a00016_a3741380c06f4edec83baf7c38fabcfe3.html#a3741380c06f4edec83baf7c38fabcfe3" title="set of concerning places" alt="" coords="553,290,708,334"/>
+<area shape="rect" id="node27" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="545,357,716,385"/>
+<area shape="rect" id="node29" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="552,407,709,435"/>
+<area shape="rect" id="node35" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="545,458,716,502"/>
+<area shape="rect" id="node42" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="537,525,724,553"/>
+<area shape="rect" id="node60" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="523,871,739,915"/>
+<area shape="rect" id="node62" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="792,813,955,857"/>
+<area shape="rect" id="node66" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="787,930,960,974"/>
+<area shape="rect" id="node70" href="$a00201_a98553f6447242cc43e93aa9e9a6fd497.html#a98553f6447242cc43e93aa9e9a6fd497" title="returns the union of two sets" alt="" coords="807,879,940,907"/>
+<area shape="rect" id="node64" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="1015,821,1188,849"/>
+<area shape="rect" id="node68" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="1009,938,1193,966"/>
+</map>

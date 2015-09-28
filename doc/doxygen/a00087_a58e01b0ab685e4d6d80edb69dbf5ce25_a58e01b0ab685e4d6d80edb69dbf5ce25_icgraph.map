@@ -1,0 +1,7 @@
+<map id="pnapi::PetriNet::ReductionCache::addTransition" name="pnapi::PetriNet::ReductionCache::addTransition">
+<area shape="rect" id="node3" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="224,5,376,49"/>
+<area shape="rect" id="node7" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="224,71,376,115"/>
+<area shape="rect" id="node10" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="224,138,376,182"/>
+<area shape="rect" id="node13" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="224,205,376,249"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="424,113,576,141"/>
+</map>

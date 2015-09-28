@@ -1,0 +1,18 @@
+<map id="pnapi::Transition::addLabel" name="pnapi::Transition::addLabel">
+<area shape="rect" id="node3" href="$a00068_a07afe8eb9cce5ae6b7fcc84f18564a52.html#a07afe8eb9cce5ae6b7fcc84f18564a52" title="close an element" alt="" coords="200,5,355,49"/>
+<area shape="rect" id="node7" href="$a00086_a4da9284bde011c610596f92d6435c970.html#a4da9284bde011c610596f92d6435c970" title="compose two nets by adding the given one and merging interfaces" alt="" coords="195,71,360,99"/>
+<area shape="rect" id="node9" href="$a00086_a29216872f8014b80516292d0c5dacd6a.html#a29216872f8014b80516292d0c5dacd6a" title="adds the structure of a second net" alt="" coords="181,122,373,150"/>
+<area shape="rect" id="node11" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="175,173,380,201"/>
+<area shape="rect" id="node15" href="$a00086_a503afb77da7be07c4777da5faf3e0f4e.html#a503afb77da7be07c4777da5faf3e0f4e" title="classical normalization through expanding the interface" alt="" coords="193,223,361,267"/>
+<area shape="rect" id="node22" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="200,290,355,334"/>
+<area shape="rect" id="node24" href="$a00086_ace1a1ec82ae68c7fcfb19c0bef95b8fb.html#ace1a1ec82ae68c7fcfb19c0bef95b8fb" title="product with Constraint oWFN" alt="" coords="199,357,356,385"/>
+<area shape="rect" id="node26" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="201,407,353,451"/>
+<area shape="rect" id="node30" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="201,474,353,518"/>
+<area shape="rect" id="node33" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="201,541,353,585"/>
+<area shape="rect" id="node36" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="201,607,353,651"/>
+<area shape="rect" id="node5" href="$a00069_ab15c9de6a61499c8daa43e1ab6f39665.html#ab15c9de6a61499c8daa43e1ab6f39665" title="pnapi::parser::pnml\l::yy::BisonParser::parse" alt="" coords="436,5,591,49"/>
+<area shape="rect" id="node13" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="433,173,593,201"/>
+<area shape="rect" id="node17" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="645,257,813,285"/>
+<area shape="rect" id="node19" href="$a00086_a1eec9931ba1f409f0d906255a2c71d41.html#a1eec9931ba1f409f0d906255a2c71d41" title="normalization defined in [Aalst07]" alt="" coords="429,278,597,322"/>
+<area shape="rect" id="node28" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="437,515,589,543"/>
+</map>

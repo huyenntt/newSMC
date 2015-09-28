@@ -1,0 +1,9 @@
+<map id="pnapi::Interface::addInputLabel" name="pnapi::Interface::addInputLabel">
+<area shape="rect" id="node3" href="$a00030_a42a17f1f0e490de9334625293bea4efd.html#a42a17f1f0e490de9334625293bea4efd" title="adding a label" alt="" coords="241,17,409,45"/>
+<area shape="rect" id="node7" href="$a00068_a07afe8eb9cce5ae6b7fcc84f18564a52.html#a07afe8eb9cce5ae6b7fcc84f18564a52" title="close an element" alt="" coords="248,71,403,115"/>
+<area shape="rect" id="node11" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="223,138,428,166"/>
+<area shape="rect" id="node15" href="$a00086_a30a64527f32d61206e3df34b02576c82.html#a30a64527f32d61206e3df34b02576c82" title="creates an input Label" alt="" coords="236,189,415,233"/>
+<area shape="rect" id="node5" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="481,5,636,49"/>
+<area shape="rect" id="node9" href="$a00069_ab15c9de6a61499c8daa43e1ab6f39665.html#ab15c9de6a61499c8daa43e1ab6f39665" title="pnapi::parser::pnml\l::yy::BisonParser::parse" alt="" coords="481,71,636,115"/>
+<area shape="rect" id="node13" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="479,138,639,166"/>
+</map>

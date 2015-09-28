@@ -1,0 +1,8 @@
+<map id="pnapi::Interface::addPort" name="pnapi::Interface::addPort">
+<area shape="rect" id="node3" href="$a00030_a7b0ff9de99f6854ee156187e37717fed.html#a7b0ff9de99f6854ee156187e37717fed" title="adding an input label" alt="" coords="240,5,405,49"/>
+<area shape="rect" id="node5" href="$a00030_a6e5a26aa756df988caca6d989c41130b.html#a6e5a26aa756df988caca6d989c41130b" title="adding an output label" alt="" coords="235,71,411,115"/>
+<area shape="rect" id="node7" href="$a00030_a470f944fbbaf18057012f90ea411524f.html#a470f944fbbaf18057012f90ea411524f" title="adding a synchronous label" alt="" coords="217,138,428,182"/>
+<area shape="rect" id="node9" href="$a00086_a29216872f8014b80516292d0c5dacd6a.html#a29216872f8014b80516292d0c5dacd6a" title="adds the structure of a second net" alt="" coords="227,205,419,233"/>
+<area shape="rect" id="node11" href="$a00086_ac3d34197ab4b18db0ff89a3c8744ca90.html#ac3d34197ab4b18db0ff89a3c8744ca90" title="creates a Port" alt="" coords="236,255,409,283"/>
+<area shape="rect" id="node13" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="245,306,400,350"/>
+</map>

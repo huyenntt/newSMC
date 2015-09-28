@@ -1,0 +1,6 @@
+<map id="pnapi::io::__pnml::output" name="pnapi::io::__pnml::output">
+<area shape="rect" id="node3" href="$a00086_a0d3e0f5e44ebdbb8371fc4afe7ac4d3f.html#a0d3e0f5e44ebdbb8371fc4afe7ac4d3f" title="returns the meta information if available" alt="" coords="173,5,333,49"/>
+<area shape="rect" id="node7" href="$a00181_a7ecf64948e2f363a4d737215376a466e.html#a7ecf64948e2f363a4d737215376a466e" title="writes output type to stream" alt="" coords="203,71,304,99"/>
+<area shape="rect" id="node9" href="$a00181_a00904d951119961dd9d0279c60e8156f.html#a00904d951119961dd9d0279c60e8156f" title="writes output type to stream" alt="" coords="205,122,301,150"/>
+<area shape="rect" id="node5" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="383,5,551,49"/>
+</map>

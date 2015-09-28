@@ -1,0 +1,5 @@
+<map id="pnapi::Interface::addSynchronousLabel" name="pnapi::Interface::addSynchronousLabel">
+<area shape="rect" id="node3" href="$a00030_acef32e25ff1e4829bdb8cc6ef9166a85.html#acef32e25ff1e4829bdb8cc6ef9166a85" title="adding a single port" alt="" coords="280,5,440,33"/>
+<area shape="rect" id="node5" href="$a00089_a8e1c81412c6715f6bdf461c50cf74551.html#a8e1c81412c6715f6bdf461c50cf74551" title="adding a synchronous label" alt="" coords="268,55,452,99"/>
+<area shape="rect" id="node7" href="$a00030_a4255c34997a2b27ae3d0dd1dd170d5f1.html#a4255c34997a2b27ae3d0dd1dd170d5f1" title="generate unused port name" alt="" coords="277,122,443,166"/>
+</map>

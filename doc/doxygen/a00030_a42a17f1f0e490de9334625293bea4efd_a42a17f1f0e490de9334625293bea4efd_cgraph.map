@@ -1,0 +1,8 @@
+<map id="pnapi::Interface::addLabel" name="pnapi::Interface::addLabel">
+<area shape="rect" id="node3" href="$a00030_ad3419760d8405e48b42c937990f381e6.html#ad3419760d8405e48b42c937990f381e6" title="adding an input label" alt="" coords="248,5,413,49"/>
+<area shape="rect" id="node7" href="$a00030_a4a824b9405ca6763f61e58b811422d34.html#a4a824b9405ca6763f61e58b811422d34" title="adding an output label" alt="" coords="243,71,419,115"/>
+<area shape="rect" id="node11" href="$a00030_a39d6b8a8467d404f88949e364f2d2ba9.html#a39d6b8a8467d404f88949e364f2d2ba9" title="adding a synchronous label" alt="" coords="225,138,436,182"/>
+<area shape="rect" id="node5" href="$a00089_acdfaf4daa7aaaf2e5b93d9c7066ddc6f.html#acdfaf4daa7aaaf2e5b93d9c7066ddc6f" title="adding an input label" alt="" coords="493,13,664,41"/>
+<area shape="rect" id="node9" href="$a00089_a6971b10c99ddc20ad5dfbaa9bb343f9c.html#a6971b10c99ddc20ad5dfbaa9bb343f9c" title="adding an output label" alt="" coords="488,79,669,107"/>
+<area shape="rect" id="node13" href="$a00089_a8e1c81412c6715f6bdf461c50cf74551.html#a8e1c81412c6715f6bdf461c50cf74551" title="adding a synchronous label" alt="" coords="487,138,671,182"/>
+</map>

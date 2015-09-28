@@ -1,0 +1,9 @@
+<map id="pnapi::Port::getSynchronousLabels" name="pnapi::Port::getSynchronousLabels">
+<area shape="rect" id="node3" href="$a00030_a5a437b7d2bb98de2ea555db5e7f0a0c6.html#a5a437b7d2bb98de2ea555db5e7f0a0c6" title="returning synchronous labels" alt="" coords="239,47,447,91"/>
+<area shape="rect" id="node13" href="$a00115_aedfbce78bbf651fef7fb4b593ac4ecfc.html#aedfbce78bbf651fef7fb4b593ac4ecfc" title="port output" alt="" coords="268,114,417,142"/>
+<area shape="rect" id="node15" href="$a00183_a59d0a93f9fa7dbef0654ed1f965a1b2f.html#a59d0a93f9fa7dbef0654ed1f965a1b2f" title="port output" alt="" coords="283,165,403,209"/>
+<area shape="rect" id="node5" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="496,5,664,33"/>
+<area shape="rect" id="node7" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="505,55,655,83"/>
+<area shape="rect" id="node11" href="$a00183_ac1fdc48e837b9eae5ba0391c4b424355.html#ac1fdc48e837b9eae5ba0391c4b424355" title="interface output" alt="" coords="520,106,640,150"/>
+<area shape="rect" id="node9" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="712,55,851,83"/>
+</map>

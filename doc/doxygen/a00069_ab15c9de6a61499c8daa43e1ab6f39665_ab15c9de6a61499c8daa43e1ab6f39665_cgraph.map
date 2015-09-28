@@ -1,0 +1,39 @@
+<map id="pnapi::parser::pnml::yy::BisonParser::parse" name="pnapi::parser::pnml::yy::BisonParser::parse">
+<area shape="rect" id="node3" href="$a00068_a07afe8eb9cce5ae6b7fcc84f18564a52.html#a07afe8eb9cce5ae6b7fcc84f18564a52" title="close an element" alt="" coords="227,311,381,355"/>
+<area shape="rect" id="node46" href="$a00069_a3558f4a150b520937ede440681c6eb93.html#a3558f4a150b520937ede440681c6eb93" title="implement parser error handling" alt="" coords="229,533,379,577"/>
+<area shape="rect" id="node48" href="$a00068_a4f7fbc45f8c2be54da1a1e8a1d568ce4.html#a4f7fbc45f8c2be54da1a1e8a1d568ce4" title="opens an element" alt="" coords="228,599,380,643"/>
+<area shape="rect" id="node52" href="$a00076_a0096ded2ab6edb97664102c3a11a3ee8.html#a0096ded2ab6edb97664102c3a11a3ee8" title="pnapi::parser::pnml\l::yy::stack::push" alt="" coords="240,666,368,710"/>
+<area shape="rect" id="node54" href="$a00068_a4156c21ca74ffe9012d19401af659206.html#a4156c21ca74ffe9012d19401af659206" title="store attributes" alt="" coords="223,733,385,777"/>
+<area shape="rect" id="node56" href="$a00068_a9ae0658661a603ef371614696a9fddab.html#a9ae0658661a603ef371614696a9fddab" title="store data" alt="" coords="237,799,371,843"/>
+<area shape="rect" id="node60" href="$a00069_a425c406a278c210b157789501ae11d83.html#a425c406a278c210b157789501ae11d83" title="pnapi::parser::pnml\l::yy::BisonParser::yy\l_pact_value_is_default_" alt="" coords="473,858,636,918"/>
+<area shape="rect" id="node62" href="$a00069_a4626ea477b76f54d410833278adac7d5.html#a4626ea477b76f54d410833278adac7d5" title="pnapi::parser::pnml\l::yy::BisonParser::yy\l_table_value_is_error_" alt="" coords="479,1050,631,1110"/>
+<area shape="rect" id="node64" href="$a00069_a20ef94433d1d608ee701dc47f9a62e39.html#a20ef94433d1d608ee701dc47f9a62e39" title="Reclaim the memory associated to a symbol." alt="" coords="209,999,399,1043"/>
+<area shape="rect" id="node66" href="$a00197_a578794c21b371c18539889d77c7c85a0.html#a578794c21b371c18539889d77c7c85a0" title="Wrapper funktion to link Bison parser with Flex lexer." alt="" coords="240,1066,368,1110"/>
+<area shape="rect" id="node68" href="$a00069_ad2e45d6ee0c7bb9ead1b2ac2a243716d.html#ad2e45d6ee0c7bb9ead1b2ac2a243716d" title="Pop n symbols the three stacks." alt="" coords="223,1183,385,1227"/>
+<area shape="rect" id="node72" href="$a00069_a58fdd2dee657f52518e27d05d78c104d.html#a58fdd2dee657f52518e27d05d78c104d" title="pnapi::parser::pnml\l::yy::BisonParser::yysyntax\l_error_" alt="" coords="219,917,389,977"/>
+<area shape="rect" id="node78" href="$a00069_a171f6068057ccec0f69f12cb53f87d94.html#a171f6068057ccec0f69f12cb53f87d94" title="Convert a scanner token number t to a symbol number." alt="" coords="208,1250,400,1294"/>
+<area shape="rect" id="node5" href="$a00030_ad3419760d8405e48b42c937990f381e6.html#ad3419760d8405e48b42c937990f381e6" title="adding an input label" alt="" coords="472,341,637,385"/>
+<area shape="rect" id="node9" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="496,407,613,451"/>
+<area shape="rect" id="node17" href="$a00007_a12a901813af6ef1d5b25a5acda0c9b09.html#a12a901813af6ef1d5b25a5acda0c9b09" title="creates a condition for the given marking and adds it" alt="" coords="461,474,648,502"/>
+<area shape="rect" id="node23" href="$a00030_a4a824b9405ca6763f61e58b811422d34.html#a4a824b9405ca6763f61e58b811422d34" title="adding an output label" alt="" coords="467,525,643,569"/>
+<area shape="rect" id="node27" href="$a00030_a39d6b8a8467d404f88949e364f2d2ba9.html#a39d6b8a8467d404f88949e364f2d2ba9" title="adding a synchronous label" alt="" coords="449,591,660,635"/>
+<area shape="rect" id="node31" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="471,5,639,33"/>
+<area shape="rect" id="node33" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="464,106,645,134"/>
+<area shape="rect" id="node37" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="452,55,657,83"/>
+<area shape="rect" id="node40" href="$a00068_ab0515a13251cbb57d3d74fecb922dbb6.html#ab0515a13251cbb57d3d74fecb922dbb6" title="throw an error" alt="" coords="491,157,619,201"/>
+<area shape="rect" id="node42" href="$a00086_a396370185497ee843e089dd5565c43ae.html#a396370185497ee843e089dd5565c43ae" title="get the final condition" alt="" coords="476,223,633,267"/>
+<area shape="rect" id="node44" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="464,290,645,318"/>
+<area shape="rect" id="node7" href="$a00089_acdfaf4daa7aaaf2e5b93d9c7066ddc6f.html#acdfaf4daa7aaaf2e5b93d9c7066ddc6f" title="adding an input label" alt="" coords="717,298,888,326"/>
+<area shape="rect" id="node11" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="716,415,889,443"/>
+<area shape="rect" id="node13" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="744,349,861,393"/>
+<area shape="rect" id="node15" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="945,349,1063,393"/>
+<area shape="rect" id="node19" href="$a00039_a7220f7ce36940c08482d4561ce9ca8b5.html#a7220f7ce36940c08482d4561ce9ca8b5" title="get unterlying petri net" alt="" coords="715,517,891,545"/>
+<area shape="rect" id="node21" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="717,466,888,494"/>
+<area shape="rect" id="node25" href="$a00089_a6971b10c99ddc20ad5dfbaa9bb343f9c.html#a6971b10c99ddc20ad5dfbaa9bb343f9c" title="adding an output label" alt="" coords="712,567,893,595"/>
+<area shape="rect" id="node29" href="$a00089_a8e1c81412c6715f6bdf461c50cf74551.html#a8e1c81412c6715f6bdf461c50cf74551" title="adding a synchronous label" alt="" coords="711,618,895,662"/>
+<area shape="rect" id="node35" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="717,73,888,117"/>
+<area shape="rect" id="node50" href="$a00068_a1d9e949a093051287b85a52943a80357.html#a1d9e949a093051287b85a52943a80357" title="whether we care about a given element" alt="" coords="480,658,629,702"/>
+<area shape="rect" id="node58" href="$a00068_a552666748486589a410b7b80fb019583.html#a552666748486589a410b7b80fb019583" title="removes whitespace around given string" alt="" coords="491,791,619,835"/>
+<area shape="rect" id="node70" href="$a00076_ad3b13d2bf025f0ae27779302ddf5f429.html#ad3b13d2bf025f0ae27779302ddf5f429" title="pnapi::parser::pnml\l::yy::stack::pop" alt="" coords="491,1183,619,1227"/>
+<area shape="rect" id="node76" href="$a00069_ac741f3d1dec6ebd6a834259aec483aff.html#ac741f3d1dec6ebd6a834259aec483aff" title="Convert the symbol name n to a form suitable for a diagnostic." alt="" coords="461,941,648,985"/>
+</map>

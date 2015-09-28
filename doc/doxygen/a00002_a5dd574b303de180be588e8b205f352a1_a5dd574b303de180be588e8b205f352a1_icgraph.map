@@ -1,0 +1,7 @@
+<map id="pnapi::parser::AbstractParser::parse" name="pnapi::parser::AbstractParser::parse">
+<area shape="rect" id="node3" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="244,5,449,33"/>
+<area shape="rect" id="node7" href="$a00196_ac2b7f682a6245a8a6a6061fbf96dd149.html#ac2b7f682a6245a8a6a6061fbf96dd149" title="parses stream contents with the associated parser" alt="" coords="283,55,411,99"/>
+<area shape="rect" id="node9" href="$a00192_acde673ddaad6cfca9908c8a86fe36b12.html#acde673ddaad6cfca9908c8a86fe36b12" title="parses stream contents with the associated parser" alt="" coords="283,122,411,166"/>
+<area shape="rect" id="node11" href="$a00199_a22f6e4f02c9ea68c9522ed87406cfe6a.html#a22f6e4f02c9ea68c9522ed87406cfe6a" title="parses stream contents with the associated parser" alt="" coords="277,189,416,233"/>
+<area shape="rect" id="node5" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="500,5,660,33"/>
+</map>

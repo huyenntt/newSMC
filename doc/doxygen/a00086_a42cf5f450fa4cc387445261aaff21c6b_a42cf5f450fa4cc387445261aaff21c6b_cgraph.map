@@ -1,0 +1,5 @@
+<map id="pnapi::PetriNet::prefixNames" name="pnapi::PetriNet::prefixNames">
+<area shape="rect" id="node3" href="$a00086_afd6eef613f421cd32c180b21371c45c4.html#afd6eef613f421cd32c180b21371c45c4" title="adds a prefix to all labels" alt="" coords="241,5,415,49"/>
+<area shape="rect" id="node7" href="$a00086_a163f5b2140c058363c371a470d64151f.html#a163f5b2140c058363c371a470d64151f" title="adds a given prefix to all nodes" alt="" coords="241,71,415,115"/>
+<area shape="rect" id="node5" href="$a00030_a7d6b6740377880a2b94f2acd97b0a34f.html#a7d6b6740377880a2b94f2acd97b0a34f" title="returning ports map" alt="" coords="464,13,629,41"/>
+</map>

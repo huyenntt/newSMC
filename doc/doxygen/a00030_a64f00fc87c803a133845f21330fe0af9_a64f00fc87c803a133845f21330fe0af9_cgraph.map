@@ -1,0 +1,11 @@
+<map id="pnapi::Interface::Interface" name="pnapi::Interface::Interface">
+<area shape="rect" id="node3" href="$a00089_a64d336268f60f8dc4c8b29d3f0c4f668.html#a64d336268f60f8dc4c8b29d3f0c4f668" title="adding a label" alt="" coords="243,5,384,33"/>
+<area shape="rect" id="node5" href="$a00038_ad0ebd81805d1c26250870626983d6612.html#ad0ebd81805d1c26250870626983d6612" title="returing the label&#39;s type" alt="" coords="469,26,611,54"/>
+<area shape="rect" id="node7" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="223,106,404,134"/>
+<area shape="rect" id="node11" href="$a00030_abf3b377e79aa82641ab1e6546e11558b.html#abf3b377e79aa82641ab1e6546e11558b" title="find a certain label" alt="" coords="229,157,397,185"/>
+<area shape="rect" id="node13" href="$a00038_ac519c2079924d52f4d3a201a8fdf48a6.html#ac519c2079924d52f4d3a201a8fdf48a6" title="returning the label&#39;s name" alt="" coords="239,207,388,235"/>
+<area shape="rect" id="node15" href="$a00030_a7d6b6740377880a2b94f2acd97b0a34f.html#a7d6b6740377880a2b94f2acd97b0a34f" title="returning ports map" alt="" coords="231,258,396,286"/>
+<area shape="rect" id="node18" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="235,309,392,337"/>
+<area shape="rect" id="node20" href="$a00201_ac2c21d089c3576e172b142374d232a77.html#ac2c21d089c3576e172b142374d232a77" title="returns the intersection of two sets" alt="" coords="229,359,397,387"/>
+<area shape="rect" id="node9" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="455,98,625,142"/>
+</map>

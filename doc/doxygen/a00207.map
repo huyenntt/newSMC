@@ -1,0 +1,39 @@
+<map id="component.h" name="component.h">
+<area shape="rect" id="node3" href="$a00100.html" title="component.cc" alt="" coords="172,161,273,189"/>
+<area shape="rect" id="node5" href="$a00167.html" title="Class PetriNet." alt="" coords="1584,83,1659,111"/>
+<area shape="rect" id="node84" href="$a00108.html" title="formula.cc" alt="" coords="1683,83,1765,111"/>
+<area shape="rect" id="node86" href="$a00110.html" title="graph.cc" alt="" coords="1789,83,1859,111"/>
+<area shape="rect" id="node8" href="$a00102.html" title="condition.cc" alt="" coords="2251,161,2341,189"/>
+<area shape="rect" id="node10" href="$a00112.html" title="Interface class holding asynchronous and synchronous communication." alt="" coords="2365,161,2453,189"/>
+<area shape="rect" id="node12" href="$a00114.html" title="io&#45;format.cc" alt="" coords="2477,161,2568,189"/>
+<area shape="rect" id="node14" href="$a00116.html" title="marking.cc" alt="" coords="297,161,383,189"/>
+<area shape="rect" id="node16" href="$a00163.html" title="Parser Related Structures." alt="" coords="1144,161,1211,189"/>
+<area shape="rect" id="node24" href="$a00126.html" title="parser&#45;lola&#45;wrapper.cc" alt="" coords="480,315,629,343"/>
+<area shape="rect" id="node26" href="$a00128.html" title="parser&#45;lola.cc" alt="" coords="653,315,752,343"/>
+<area shape="rect" id="node32" href="$a00134.html" title="parser&#45;owfn&#45;wrapper.cc" alt="" coords="5,315,163,343"/>
+<area shape="rect" id="node34" href="$a00136.html" title="parser&#45;owfn.cc" alt="" coords="187,315,293,343"/>
+<area shape="rect" id="node36" href="$a00143.html" title="Parser Related Structures." alt="" coords="1709,238,1845,266"/>
+<area shape="rect" id="node40" href="$a00142.html" title="parser&#45;pn&#45;wrapper.cc" alt="" coords="2291,315,2432,343"/>
+<area shape="rect" id="node50" href="$a00150.html" title="parser&#45;pnml&#45;wrapper.cc" alt="" coords="1224,315,1381,343"/>
+<area shape="rect" id="node58" href="$a00158.html" title="parser&#45;woflan&#45;wrapper.cc" alt="" coords="1576,315,1741,343"/>
+<area shape="rect" id="node60" href="$a00160.html" title="parser&#45;woflan.cc" alt="" coords="1765,315,1880,343"/>
+<area shape="rect" id="node62" href="$a00162.html" title="parser.cc" alt="" coords="1509,238,1584,266"/>
+<area shape="rect" id="node74" href="$a00165.html" title="Petri Net API: structural reduction." alt="" coords="1811,161,1949,189"/>
+<area shape="rect" id="node76" href="$a00166.html" title="Petri net basics." alt="" coords="1973,161,2056,189"/>
+<area shape="rect" id="node78" href="$a00170.html" title="Petri Net API main header." alt="" coords="2080,161,2141,189"/>
+<area shape="rect" id="node82" href="$a00171.html" title="Class Port and class Label." alt="" coords="2165,161,2227,189"/>
+<area shape="rect" id="node18" href="$a00118.html" title="myio.cc" alt="" coords="783,238,849,266"/>
+<area shape="rect" id="node20" href="$a00127.html" title="Parser Related Structures." alt="" coords="873,238,1015,266"/>
+<area shape="rect" id="node28" href="$a00135.html" title="Parser Related Structures." alt="" coords="508,238,657,266"/>
+<area shape="rect" id="node46" href="$a00151.html" title="Parser Related Structures." alt="" coords="1083,238,1232,266"/>
+<area shape="rect" id="node54" href="$a00159.html" title="Parser Related Structures." alt="" coords="1328,238,1485,266"/>
+<area shape="rect" id="node22" href="$a00122.html" title="parser&#45;lola&#45;lexer.cc" alt="" coords="776,315,907,343"/>
+<area shape="rect" id="node30" href="$a00130.html" title="parser&#45;owfn&#45;lexer.cc" alt="" coords="317,315,456,343"/>
+<area shape="rect" id="node38" href="$a00138.html" title="parser&#45;pn&#45;lexer.cc" alt="" coords="1904,315,2027,343"/>
+<area shape="rect" id="node42" href="$a00144.html" title="parser&#45;pn.cc" alt="" coords="2051,315,2144,343"/>
+<area shape="rect" id="node44" href="$a00164.html" title="petrinet&#45;pn.cc" alt="" coords="2168,315,2267,343"/>
+<area shape="rect" id="node48" href="$a00146.html" title="parser&#45;pnml&#45;lexer.cc" alt="" coords="931,315,1069,343"/>
+<area shape="rect" id="node52" href="$a00152.html" title="parser&#45;pnml.cc" alt="" coords="1093,315,1200,343"/>
+<area shape="rect" id="node56" href="$a00154.html" title="parser&#45;woflan&#45;lexer.cc" alt="" coords="1405,315,1552,343"/>
+<area shape="rect" id="node80" href="$a00169.html" title="pnapi.cc" alt="" coords="2076,238,2145,266"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="petrinet.h" name="petrinet.h">
+<area shape="rect" id="node3" href="$a00104.html" title="config.h" alt="" coords="833,393,900,421"/>
+<area shape="rect" id="node7" href="$a00101.html" title="Nodes and Arcs for Petri nets." alt="" coords="219,315,315,343"/>
+<area shape="rect" id="node17" href="$a00103.html" title="condition.h" alt="" coords="611,83,693,111"/>
+<area shape="rect" id="node25" href="$a00106.html" title="exception classes" alt="" coords="693,315,779,343"/>
+<area shape="rect" id="node47" href="$a00113.html" title="Class Interface." alt="" coords="696,238,779,266"/>
+<area shape="rect" id="node20" href="$a00109.html" title="formula.h" alt="" coords="653,161,728,189"/>
+<area shape="rect" id="node23" href="$a00119.html" title="Input/Output related Structures." alt="" coords="427,238,485,266"/>
+<area shape="rect" id="node31" href="$a00175.html" title="utility functions" alt="" coords="96,315,144,343"/>
+<area shape="rect" id="node50" href="$a00172.html" title="Class Port." alt="" coords="565,315,619,343"/>
+</map>

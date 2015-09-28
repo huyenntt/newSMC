@@ -1,0 +1,6 @@
+<map id="pnapi::Arc::setWeight" name="pnapi::Arc::setWeight">
+<area shape="rect" id="node3" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="199,5,404,33"/>
+<area shape="rect" id="node7" href="$a00078_a18ad1fa140e715d5cbb1ff7fb5ccb06a.html#a18ad1fa140e715d5cbb1ff7fb5ccb06a" title="pnapi::parser::woflan\l::yy::BisonParser::parse" alt="" coords="224,55,379,99"/>
+<area shape="rect" id="node9" href="$a00042_ae6b307e4480bf47cadc4fdf8055effab.html#ae6b307e4480bf47cadc4fdf8055effab" title="pnapi::parser::lola\l::yy::BisonParser::parse" alt="" coords="224,122,379,166"/>
+<area shape="rect" id="node5" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="455,5,615,33"/>
+</map>

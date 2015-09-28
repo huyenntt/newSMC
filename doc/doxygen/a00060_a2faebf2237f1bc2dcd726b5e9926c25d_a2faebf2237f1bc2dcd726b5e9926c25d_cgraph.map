@@ -1,0 +1,13 @@
+<map id="pnapi::parser::pn::yy::BisonParser::parse" name="pnapi::parser::pn::yy::BisonParser::parse">
+<area shape="rect" id="node3" href="$a00060_af786fca6b61c4f7b2c2b29bf20a144c7.html#af786fca6b61c4f7b2c2b29bf20a144c7" title="implement parser error handling" alt="" coords="227,5,373,49"/>
+<area shape="rect" id="node5" href="$a00067_a28ac9c22baa540f338130ca4132ed78e.html#a28ac9c22baa540f338130ca4132ed78e" title="pnapi::parser::pn:\l:yy::stack::push" alt="" coords="241,71,359,115"/>
+<area shape="rect" id="node7" href="$a00060_a0960b2e3cd5616367e5e9c2771c2ad62.html#a0960b2e3cd5616367e5e9c2771c2ad62" title="pnapi::parser::pn:\l:yy::BisonParser::yy\l_pact_value_is_default_" alt="" coords="453,122,616,182"/>
+<area shape="rect" id="node9" href="$a00060_ae10adac0ea643c4c03f78a07bcc99ac5.html#ae10adac0ea643c4c03f78a07bcc99ac5" title="pnapi::parser::pn:\l:yy::BisonParser::yy\l_table_value_is_error_" alt="" coords="459,322,611,382"/>
+<area shape="rect" id="node11" href="$a00060_a9a3540e5791db1d16b6596b32cdc0f43.html#a9a3540e5791db1d16b6596b32cdc0f43" title="Reclaim the memory associated to a symbol." alt="" coords="207,271,393,315"/>
+<area shape="rect" id="node13" href="$a00195_af70834bb5aed73062d89df3c95d381cc.html#af70834bb5aed73062d89df3c95d381cc" title="Wrapper funktion to link Bison parser with Flex lexer." alt="" coords="241,338,359,382"/>
+<area shape="rect" id="node15" href="$a00060_a2ae6e244182ac781b6c054e6cb981126.html#a2ae6e244182ac781b6c054e6cb981126" title="Pop n symbols the three stacks." alt="" coords="220,455,380,499"/>
+<area shape="rect" id="node19" href="$a00060_ae02b245413e87858906df43f1c3cd2fa.html#ae02b245413e87858906df43f1c3cd2fa" title="pnapi::parser::pn:\l:yy::BisonParser::yysyntax\l_error_" alt="" coords="216,189,384,249"/>
+<area shape="rect" id="node25" href="$a00060_a485ecc65db4099fe61c570c326e972e7.html#a485ecc65db4099fe61c570c326e972e7" title="Convert a scanner token number t to a symbol number." alt="" coords="205,522,395,566"/>
+<area shape="rect" id="node17" href="$a00067_aee874bc0d6e285d48222ac3921ab1c61.html#aee874bc0d6e285d48222ac3921ab1c61" title="pnapi::parser::pn:\l:yy::stack::pop" alt="" coords="476,455,593,499"/>
+<area shape="rect" id="node23" href="$a00060_a22211a74a80c6dcb9813a863913f6f80.html#a22211a74a80c6dcb9813a863913f6f80" title="Convert the symbol name n to a form suitable for a diagnostic." alt="" coords="444,205,625,249"/>
+</map>

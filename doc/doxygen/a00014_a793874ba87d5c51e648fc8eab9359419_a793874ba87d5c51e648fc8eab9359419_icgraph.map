@@ -1,0 +1,7 @@
+<map id="pnapi::formula::Conjunction::Conjunction" name="pnapi::formula::Conjunction::Conjunction">
+<area shape="rect" id="node3" href="$a00014_a2a88cc3e218feb4be12bcd716445f4e5.html#a2a88cc3e218feb4be12bcd716445f4e5" title="create a deep copy of the formula" alt="" coords="229,5,405,49"/>
+<area shape="rect" id="node5" href="$a00014_ac65dfed91d627316015ecc7d8b15592c.html#ac65dfed91d627316015ecc7d8b15592c" title="forms formula in disjunctive normal form" alt="" coords="453,42,653,70"/>
+<area shape="rect" id="node8" href="$a00014_af1fcfac5acf2b90bb6f85f70b39dea68.html#af1fcfac5acf2b90bb6f85f70b39dea68" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="229,122,405,166"/>
+<area shape="rect" id="node10" href="$a00014_ac7d5bbc039995f82f51289468719d500.html#ac7d5bbc039995f82f51289468719d500" title="removes negation" alt="" coords="229,189,405,233"/>
+<area shape="rect" id="node12" href="$a00014_af7c0301a749365599cca1611df0daf8b.html#af7c0301a749365599cca1611df0daf8b" title="replace place references" alt="" coords="229,255,405,299"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="pnapi::parser::owfn::yy::BisonParser::parse" name="pnapi::parser::owfn::yy::BisonParser::parse">
+<area shape="rect" id="node3" href="$a00030_a42a17f1f0e490de9334625293bea4efd.html#a42a17f1f0e490de9334625293bea4efd" title="adding a label" alt="" coords="228,113,396,141"/>
+<area shape="rect" id="node13" href="$a00089_a64d336268f60f8dc4c8b29d3f0c4f668.html#a64d336268f60f8dc4c8b29d3f0c4f668" title="adding a label" alt="" coords="241,255,383,283"/>
+<area shape="rect" id="node15" href="$a00038_ad0ebd81805d1c26250870626983d6612.html#ad0ebd81805d1c26250870626983d6612" title="returing the label&#39;s type" alt="" coords="500,205,641,233"/>
+<area shape="rect" id="node17" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="253,306,371,350"/>
+<area shape="rect" id="node23" href="$a00007_a12a901813af6ef1d5b25a5acda0c9b09.html#a12a901813af6ef1d5b25a5acda0c9b09" title="creates a condition for the given marking and adds it" alt="" coords="219,373,405,401"/>
+<area shape="rect" id="node29" href="$a00030_acef32e25ff1e4829bdb8cc6ef9166a85.html#acef32e25ff1e4829bdb8cc6ef9166a85" title="adding a single port" alt="" coords="232,490,392,518"/>
+<area shape="rect" id="node31" href="$a00091_a4db50dd06156d824909099d8a533477b.html#a4db50dd06156d824909099d8a533477b" title="add role" alt="" coords="253,591,371,635"/>
+<area shape="rect" id="node33" href="$a00086_a553df2cef6e79bbfc9944018b7aa389e.html#a553df2cef6e79bbfc9944018b7aa389e" title="adds a role" alt="" coords="491,595,651,623"/>
+<area shape="rect" id="node36" href="$a00007_a6a068cd732d3fd0df532631ed735729f.html#a6a068cd732d3fd0df532631ed735729f" title="forces all places not mentioned by the formula to be empty" alt="" coords="231,423,393,467"/>
+<area shape="rect" id="node43" href="$a00002_ac751561e3dce52430cf53f1f79b849af.html#ac751561e3dce52430cf53f1f79b849af" title="&quot;assertion&quot;" alt="" coords="219,658,405,702"/>
+<area shape="rect" id="node47" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="228,791,396,819"/>
+<area shape="rect" id="node49" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="221,842,403,870"/>
+<area shape="rect" id="node53" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="209,893,415,921"/>
+<area shape="rect" id="node56" href="$a00051_a5078fc4528c47532fe4f157f4edbac79.html#a5078fc4528c47532fe4f157f4edbac79" title="implement parser error handling" alt="" coords="237,943,387,987"/>
+<area shape="rect" id="node58" href="$a00030_abf3b377e79aa82641ab1e6546e11558b.html#abf3b377e79aa82641ab1e6546e11558b" title="find a certain label" alt="" coords="228,1010,396,1038"/>
+<area shape="rect" id="node60" href="$a00086_a396370185497ee843e089dd5565c43ae.html#a396370185497ee843e089dd5565c43ae" title="get the final condition" alt="" coords="233,1061,391,1105"/>
+<area shape="rect" id="node62" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="221,1127,403,1155"/>
+<area shape="rect" id="node64" href="$a00089_a1919b4e09df931b9fb4d2584e3f3612d.html#a1919b4e09df931b9fb4d2584e3f3612d" title="return the name of the port" alt="" coords="241,1178,383,1206"/>
+<area shape="rect" id="node66" href="$a00040_ab0d0b36c5ab1842bb8832e71b4c62671.html#ab0d0b36c5ab1842bb8832e71b4c62671" title="returns the petri net this node belongs to" alt="" coords="231,1229,393,1257"/>
+<area shape="rect" id="node68" href="$a00038_aa312f188d6e252ce4f39d9c800ef1c25.html#aa312f188d6e252ce4f39d9c800ef1c25" title="get the assigned port" alt="" coords="243,1279,381,1307"/>
+<area shape="rect" id="node71" href="$a00086_aa6c2bde41c08bb12a521b24f034efa9c.html#aa6c2bde41c08bb12a521b24f034efa9c" title="checks whether a transition role name is specified" alt="" coords="211,1330,413,1358"/>
+<area shape="rect" id="node73" href="$a00058_a3685a4e24c119569862a9ccc02cef8fc.html#a3685a4e24c119569862a9ccc02cef8fc" title="pnapi::parser::owfn\l::yy::stack::push" alt="" coords="248,1381,376,1425"/>
+<area shape="rect" id="node75" href="$a00002_adc30001f8c7cb8c197051544246b190b.html#adc30001f8c7cb8c197051544246b190b" title="rethrow a caught exception as InputError" alt="" coords="219,725,405,769"/>
+<area shape="rect" id="node78" href="$a00086_a95fbb48f633b5d93676f7b3633910055.html#a95fbb48f633b5d93676f7b3633910055" title="sets labels (and translates references)" alt="" coords="217,1447,407,1491"/>
+<area shape="rect" id="node82" href="$a00091_a96766b15418d4cdb7726837b2a3943f6.html#a96766b15418d4cdb7726837b2a3943f6" title="set transition cost" alt="" coords="253,1514,371,1558"/>
+<area shape="rect" id="node84" href="$a00088_a7337768467e0df5e11441e0a12f128a2.html#a7337768467e0df5e11441e0a12f128a2" title="set the maximum occurrence" alt="" coords="209,1581,415,1609"/>
+<area shape="rect" id="node86" href="$a00088_ab5e0c8f1467a6e8f6147c66cd5230bd8.html#ab5e0c8f1467a6e8f6147c66cd5230bd8" title="sets the number of tokens lying on this place" alt="" coords="219,1631,405,1659"/>
+<area shape="rect" id="node88" href="$a00051_a93c8f630778d2bd515450e00731d8f71.html#a93c8f630778d2bd515450e00731d8f71" title="pnapi::parser::owfn\l::yy::BisonParser::yy\l_pact_value_is_default_" alt="" coords="489,1658,652,1718"/>
+<area shape="rect" id="node90" href="$a00051_a26cccede3f193729f07866ab1c1ce3b0.html#a26cccede3f193729f07866ab1c1ce3b0" title="pnapi::parser::owfn\l::yy::BisonParser::yy\l_table_value_is_error_" alt="" coords="495,1807,647,1867"/>
+<area shape="rect" id="node92" href="$a00051_a5f189025bd8bb44921cc4dd1bb9cb802.html#a5f189025bd8bb44921cc4dd1bb9cb802" title="Reclaim the memory associated to a symbol." alt="" coords="217,1866,407,1910"/>
+<area shape="rect" id="node94" href="$a00193_a844836cd07d7c9d0752343a5ab6de9ea.html#a844836cd07d7c9d0752343a5ab6de9ea" title="Wrapper funktion to link Bison parser with Flex lexer." alt="" coords="248,1933,376,1977"/>
+<area shape="rect" id="node96" href="$a00051_adb0aee07d7979d8e2bc1850a3312aa5e.html#adb0aee07d7979d8e2bc1850a3312aa5e" title="Pop n symbols the three stacks." alt="" coords="231,1999,393,2043"/>
+<area shape="rect" id="node100" href="$a00051_a39f0b6a1c325853f94012b6820c939f5.html#a39f0b6a1c325853f94012b6820c939f5" title="pnapi::parser::owfn\l::yy::BisonParser::yysyntax\l_error_" alt="" coords="227,1733,397,1793"/>
+<area shape="rect" id="node106" href="$a00051_ad242fa37cf6e44042b5ff836cb834ce3.html#ad242fa37cf6e44042b5ff836cb834ce3" title="Convert a scanner token number t to a symbol number." alt="" coords="216,2066,408,2110"/>
+<area shape="rect" id="node5" href="$a00030_ad3419760d8405e48b42c937990f381e6.html#ad3419760d8405e48b42c937990f381e6" title="adding an input label" alt="" coords="488,5,653,49"/>
+<area shape="rect" id="node9" href="$a00030_a4a824b9405ca6763f61e58b811422d34.html#a4a824b9405ca6763f61e58b811422d34" title="adding an output label" alt="" coords="483,71,659,115"/>
+<area shape="rect" id="node11" href="$a00030_a39d6b8a8467d404f88949e364f2d2ba9.html#a39d6b8a8467d404f88949e364f2d2ba9" title="adding a synchronous label" alt="" coords="465,138,676,182"/>
+<area shape="rect" id="node7" href="$a00089_acdfaf4daa7aaaf2e5b93d9c7066ddc6f.html#acdfaf4daa7aaaf2e5b93d9c7066ddc6f" title="adding an input label" alt="" coords="725,13,896,41"/>
+<area shape="rect" id="node19" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="484,255,657,283"/>
+<area shape="rect" id="node21" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="512,306,629,350"/>
+<area shape="rect" id="node25" href="$a00039_a7220f7ce36940c08482d4561ce9ca8b5.html#a7220f7ce36940c08482d4561ce9ca8b5" title="get unterlying petri net" alt="" coords="483,373,659,401"/>
+<area shape="rect" id="node27" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="485,423,656,451"/>
+<area shape="rect" id="node38" href="$a00016_a3741380c06f4edec83baf7c38fabcfe3.html#a3741380c06f4edec83baf7c38fabcfe3" title="set of concerning places" alt="" coords="493,474,648,518"/>
+<area shape="rect" id="node41" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="492,541,649,569"/>
+<area shape="rect" id="node45" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="487,691,655,735"/>
+<area shape="rect" id="node51" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="485,859,656,903"/>
+<area shape="rect" id="node80" href="$a00086_a90c37d5baac5da014b1d223d3951d3e2.html#a90c37d5baac5da014b1d223d3951d3e2" title="find a transition by name" alt="" coords="476,1455,665,1483"/>
+<area shape="rect" id="node98" href="$a00058_a97068e34f3c56264f2ae40c4f711a42b.html#a97068e34f3c56264f2ae40c4f711a42b" title="pnapi::parser::owfn\l::yy::stack::pop" alt="" coords="507,1999,635,2043"/>
+<area shape="rect" id="node104" href="$a00051_a37f2286843306429f482625e5f1214fe.html#a37f2286843306429f482625e5f1214fe" title="Convert the symbol name n to a form suitable for a diagnostic." alt="" coords="477,1741,664,1785"/>
+</map>

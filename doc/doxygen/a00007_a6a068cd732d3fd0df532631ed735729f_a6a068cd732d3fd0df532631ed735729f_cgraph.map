@@ -1,0 +1,5 @@
+<map id="pnapi::Condition::allOtherPlacesEmpty" name="pnapi::Condition::allOtherPlacesEmpty">
+<area shape="rect" id="node3" href="$a00016_a3741380c06f4edec83baf7c38fabcfe3.html#a3741380c06f4edec83baf7c38fabcfe3" title="set of concerning places" alt="" coords="227,5,381,49"/>
+<area shape="rect" id="node5" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="219,71,389,99"/>
+<area shape="rect" id="node7" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="225,122,383,150"/>
+</map>

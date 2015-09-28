@@ -1,0 +1,9 @@
+<map id="pnapi::Interface::getPorts" name="pnapi::Interface::getPorts">
+<area shape="rect" id="node3" href="$a00086_a29216872f8014b80516292d0c5dacd6a.html#a29216872f8014b80516292d0c5dacd6a" title="adds the structure of a second net" alt="" coords="220,5,412,33"/>
+<area shape="rect" id="node5" href="$a00030_a64f00fc87c803a133845f21330fe0af9.html#a64f00fc87c803a133845f21330fe0af9" title="compose constructor" alt="" coords="233,55,399,83"/>
+<area shape="rect" id="node7" href="$a00115_a99c8ba65c558cceaf3af36d181464b6f.html#a99c8ba65c558cceaf3af36d181464b6f" title="interface output" alt="" coords="241,106,391,134"/>
+<area shape="rect" id="node9" href="$a00184_ae925a2c406f67dbf289078ed99969c8c.html#ae925a2c406f67dbf289078ed99969c8c" title="interface output" alt="" coords="256,157,376,201"/>
+<area shape="rect" id="node11" href="$a00183_ac1fdc48e837b9eae5ba0391c4b424355.html#ac1fdc48e837b9eae5ba0391c4b424355" title="interface output" alt="" coords="256,223,376,267"/>
+<area shape="rect" id="node13" href="$a00086_afd6eef613f421cd32c180b21371c45c4.html#afd6eef613f421cd32c180b21371c45c4" title="adds a prefix to all labels" alt="" coords="229,290,403,334"/>
+<area shape="rect" id="node15" href="$a00086_a42cf5f450fa4cc387445261aaff21c6b.html#a42cf5f450fa4cc387445261aaff21c6b" title="adds a prefix to all labels and nodes" alt="" coords="463,298,647,326"/>
+</map>

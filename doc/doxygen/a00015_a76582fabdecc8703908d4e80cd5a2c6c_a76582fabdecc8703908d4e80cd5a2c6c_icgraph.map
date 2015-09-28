@@ -1,0 +1,7 @@
+<map id="pnapi::formula::Disjunction::Disjunction" name="pnapi::formula::Disjunction::Disjunction">
+<area shape="rect" id="node3" href="$a00015_a9aa180b231d02c3807bb2c82e87af0e0.html#a9aa180b231d02c3807bb2c82e87af0e0" title="create a deep copy of the formula" alt="" coords="240,5,411,49"/>
+<area shape="rect" id="node5" href="$a00015_a2b29e0daf8b26f35c176493ea533cba4.html#a2b29e0daf8b26f35c176493ea533cba4" title="forms formula in disjunctive normal form" alt="" coords="228,71,423,99"/>
+<area shape="rect" id="node7" href="$a00015_a30606a5fc91caa2824d81e59f0220be1.html#a30606a5fc91caa2824d81e59f0220be1" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="240,122,411,166"/>
+<area shape="rect" id="node9" href="$a00015_a2c470ca0a303618d8b5d044992516af5.html#a2c470ca0a303618d8b5d044992516af5" title="removes negation" alt="" coords="240,189,411,233"/>
+<area shape="rect" id="node11" href="$a00015_a8804f5f190e6daabad02d45d8269f0b6.html#a8804f5f190e6daabad02d45d8269f0b6" title="replace place references" alt="" coords="240,255,411,299"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pnapi::Interface::mergePorts" name="pnapi::Interface::mergePorts">
+<area shape="rect" id="node3" href="$a00089_a64d336268f60f8dc4c8b29d3f0c4f668.html#a64d336268f60f8dc4c8b29d3f0c4f668" title="adding a label" alt="" coords="248,5,389,33"/>
+<area shape="rect" id="node7" href="$a00089_a8a06cbd69eada1ca9108332dfceb91b1.html#a8a06cbd69eada1ca9108332dfceb91b1" title="returning the set of all labels" alt="" coords="239,55,399,83"/>
+<area shape="rect" id="node9" href="$a00089_a1919b4e09df931b9fb4d2584e3f3612d.html#a1919b4e09df931b9fb4d2584e3f3612d" title="return the name of the port" alt="" coords="248,106,389,134"/>
+<area shape="rect" id="node5" href="$a00038_ad0ebd81805d1c26250870626983d6612.html#ad0ebd81805d1c26250870626983d6612" title="returing the label&#39;s type" alt="" coords="449,5,591,33"/>
+</map>

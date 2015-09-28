@@ -1,0 +1,20 @@
+<map id="pnapi::io::__dot::output" name="pnapi::io::__dot::output">
+<area shape="rect" id="node3" href="$a00188_abb6f1f0e00884832f37d6b7b9a5329aa.html#abb6f1f0e00884832f37d6b7b9a5329aa" title="create a stream manipulator" alt="" coords="244,5,372,33"/>
+<area shape="rect" id="node5" href="$a00086_a396370185497ee843e089dd5565c43ae.html#a396370185497ee843e089dd5565c43ae" title="get the final condition" alt="" coords="229,55,387,99"/>
+<area shape="rect" id="node7" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="731,349,893,393"/>
+<area shape="rect" id="node11" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="217,189,399,217"/>
+<area shape="rect" id="node13" href="$a00086_a0d3e0f5e44ebdbb8371fc4afe7ac4d3f.html#a0d3e0f5e44ebdbb8371fc4afe7ac4d3f" title="returns the meta information if available" alt="" coords="228,122,388,166"/>
+<area shape="rect" id="node17" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="725,466,899,510"/>
+<area shape="rect" id="node21" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="223,357,393,385"/>
+<area shape="rect" id="node23" href="$a00030_a5a437b7d2bb98de2ea555db5e7f0a0c6.html#a5a437b7d2bb98de2ea555db5e7f0a0c6" title="returning synchronous labels" alt="" coords="204,290,412,334"/>
+<area shape="rect" id="node27" href="$a00086_a3352e50376291412460de0638a5a47a5.html#a3352e50376291412460de0638a5a47a5" title="get transitions" alt="" coords="211,474,405,502"/>
+<area shape="rect" id="node29" href="$a00030_a504508d99f53b2a512e39b164e14a6a5.html#a504508d99f53b2a512e39b164e14a6a5" title="if there is no port or label defined" alt="" coords="227,525,389,553"/>
+<area shape="rect" id="node31" href="$a00188_abc0b9be71cb773b980512af08acc3fe7.html#abc0b9be71cb773b980512af08acc3fe7" title="create a stream manipulator" alt="" coords="243,575,373,603"/>
+<area shape="rect" id="node33" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="251,407,365,451"/>
+<area shape="rect" id="node9" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="953,357,1127,385"/>
+<area shape="rect" id="node15" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="485,122,653,166"/>
+<area shape="rect" id="node19" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="948,474,1132,502"/>
+<area shape="rect" id="node25" href="$a00089_afdac03d99f91ef34d83d3f6f40eb9a48.html#afdac03d99f91ef34d83d3f6f40eb9a48" title="returning the set of synchronous label" alt="" coords="479,290,660,334"/>
+<area shape="rect" id="node35" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="461,407,677,451"/>
+<area shape="rect" id="node39" href="$a00201_a98553f6447242cc43e93aa9e9a6fd497.html#a98553f6447242cc43e93aa9e9a6fd497" title="returns the union of two sets" alt="" coords="745,415,879,443"/>
+</map>

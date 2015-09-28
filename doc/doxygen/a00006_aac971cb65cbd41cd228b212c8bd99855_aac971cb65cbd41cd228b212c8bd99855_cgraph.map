@@ -1,0 +1,14 @@
+<map id="pnapi::Arc::Arc" name="pnapi::Arc::Arc">
+<area shape="rect" id="node3" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="165,31,357,59"/>
+<area shape="rect" id="node5" href="$a00092_ad8980794e442667e53d909149c3a48d9.html#ad8980794e442667e53d909149c3a48d9" title="the PetriNet this observer belongs to" alt="" coords="161,82,361,126"/>
+<area shape="rect" id="node7" href="$a00092_a83907f1a7771f131db9375b2d8f3797e.html#a83907f1a7771f131db9375b2d8f3797e" title="inform the net about a new arc" alt="" coords="161,149,361,193"/>
+<area shape="rect" id="node9" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="424,5,573,33"/>
+<area shape="rect" id="node11" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="423,55,575,83"/>
+<area shape="rect" id="node15" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="412,106,585,134"/>
+<area shape="rect" id="node17" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="413,157,584,185"/>
+<area shape="rect" id="node19" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="424,207,573,235"/>
+<area shape="rect" id="node21" href="$a00006_aea4a709ab5f56a613448f561f5191724.html#aea4a709ab5f56a613448f561f5191724" title="transition" alt="" coords="419,258,579,286"/>
+<area shape="rect" id="node23" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="440,309,557,353"/>
+<area shape="rect" id="node13" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="635,55,821,83"/>
+<area shape="rect" id="node25" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="669,309,787,353"/>
+</map>

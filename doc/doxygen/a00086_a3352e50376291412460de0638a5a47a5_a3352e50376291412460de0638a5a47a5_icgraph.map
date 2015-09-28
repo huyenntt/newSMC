@@ -1,0 +1,7 @@
+<map id="pnapi::PetriNet::getTransitions" name="pnapi::PetriNet::getTransitions">
+<area shape="rect" id="node3" href="$a00039_a0fb370e19237f804a119907c79f0c666.html#a0fb370e19237f804a119907c79f0c666" title="get all transitions enabled from marking m" alt="" coords="249,5,423,49"/>
+<area shape="rect" id="node7" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="261,71,411,99"/>
+<area shape="rect" id="node11" href="$a00087_a0d16d807173fd1a4f3490bfc7a5f5947.html#a0d16d807173fd1a4f3490bfc7a5f5947" title="constructor" alt="" coords="251,122,421,166"/>
+<area shape="rect" id="node5" href="$a00029_a64c71aaac9b7f91155606cff67b9d110.html#a64c71aaac9b7f91155606cff67b9d110" title="pnapi::Graph::buildGraph" alt="" coords="472,13,635,41"/>
+<area shape="rect" id="node9" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="484,71,623,99"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="pnapi::PetriNet::reduce_rule_9" name="pnapi::PetriNet::reduce_rule_9">
+<area shape="rect" id="node3" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="251,39,368,83"/>
+<area shape="rect" id="node11" href="$a00087_a58e01b0ab685e4d6d80edb69dbf5ce25.html#a58e01b0ab685e4d6d80edb69dbf5ce25" title="add a transition to the cache" alt="" coords="477,157,648,201"/>
+<area shape="rect" id="node13" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="737,298,889,326"/>
+<area shape="rect" id="node15" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="735,365,892,393"/>
+<area shape="rect" id="node17" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="225,271,393,299"/>
+<area shape="rect" id="node19" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="207,221,412,249"/>
+<area shape="rect" id="node23" href="$a00086_a19c6cfa0999ac0f4ec02a67a72e0598f.html#a19c6cfa0999ac0f4ec02a67a72e0598f" title="deletes a place" alt="" coords="219,474,400,502"/>
+<area shape="rect" id="node42" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="737,677,889,705"/>
+<area shape="rect" id="node44" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="971,702,1157,730"/>
+<area shape="rect" id="node54" href="$a00086_a6e5464dea706f8c174c8aeb553d2f6a1.html#a6e5464dea706f8c174c8aeb553d2f6a1" title="deletes a transition" alt="" coords="207,525,412,553"/>
+<area shape="rect" id="node63" href="$a00088_aaf4cd8ea1258104cc23340561985f881.html#aaf4cd8ea1258104cc23340561985f881" title="returns the number of tokens lying on this place" alt="" coords="216,575,403,603"/>
+<area shape="rect" id="node65" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="239,626,380,654"/>
+<area shape="rect" id="node67" href="$a00040_a6a2dd82eefc6f0e61e4fc19ecf7c368e.html#a6a2dd82eefc6f0e61e4fc19ecf7c368e" title="merges the histories of two nodes" alt="" coords="205,778,413,806"/>
+<area shape="rect" id="node77" href="$a00087_a65d9bbdd8c03d65344f85bd8c2f6a0a7.html#a65d9bbdd8c03d65344f85bd8c2f6a0a7" title="remove a place from the cache" alt="" coords="477,357,648,401"/>
+<area shape="rect" id="node81" href="$a00087_a44312d1dce618811b321248466f44623.html#a44312d1dce618811b321248466f44623" title="remove a transition from the cache" alt="" coords="477,290,648,334"/>
+<area shape="rect" id="node85" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="231,829,388,857"/>
+<area shape="rect" id="node87" href="$a00088_ab5e0c8f1467a6e8f6147c66cd5230bd8.html#ab5e0c8f1467a6e8f6147c66cd5230bd8" title="sets the number of tokens lying on this place" alt="" coords="216,879,403,907"/>
+<area shape="rect" id="node5" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="476,5,649,33"/>
+<area shape="rect" id="node7" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="1243,149,1360,193"/>
+<area shape="rect" id="node9" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="1439,149,1556,193"/>
+<area shape="rect" id="node21" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="477,223,648,267"/>
+<area shape="rect" id="node25" href="$a00086_a23953325e625c39a2a9ab003d275ac35.html#a23953325e625c39a2a9ab003d275ac35" title="deletes a node" alt="" coords="473,541,652,569"/>
+<area shape="rect" id="node50" href="$a00007_aaec1d3eb9edc96a0444b9986460131a0.html#aaec1d3eb9edc96a0444b9986460131a0" title="removes a place recursively" alt="" coords="481,474,644,518"/>
+<area shape="rect" id="node27" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="717,778,909,806"/>
+<area shape="rect" id="node29" href="$a00086_aa64f2ceb24f56cb2574bf8c414ba053d.html#aa64f2ceb24f56cb2574bf8c414ba053d" title="deletes an arc" alt="" coords="729,515,897,543"/>
+<area shape="rect" id="node46" href="$a00040_a231755232b738fccd49768748159b8df.html#a231755232b738fccd49768748159b8df" title="returns the name history" alt="" coords="719,566,908,594"/>
+<area shape="rect" id="node31" href="$a00092_ad5aa66cf5757f472514bed369b584729.html#ad5aa66cf5757f472514bed369b584729" title="inform nodes abput removed arc between them" alt="" coords="964,433,1164,477"/>
+<area shape="rect" id="node33" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="1227,466,1376,494"/>
+<area shape="rect" id="node35" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="1216,517,1387,545"/>
+<area shape="rect" id="node37" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="1215,365,1388,393"/>
+<area shape="rect" id="node39" href="$a00006_aea4a709ab5f56a613448f561f5191724.html#aea4a709ab5f56a613448f561f5191724" title="transition" alt="" coords="1221,415,1381,443"/>
+<area shape="rect" id="node52" href="$a00016_a3da5d326c75cc35c34f4916f6a0d3b06.html#a3da5d326c75cc35c34f4916f6a0d3b06" title="removes a place recursively" alt="" coords="736,449,891,493"/>
+<area shape="rect" id="node57" href="$a00091_a13db2855e9acfbf9c3565984f59b5c87.html#a13db2855e9acfbf9c3565984f59b5c87" title="returns true, if the transition is associated to at least one synchronous label" alt="" coords="504,591,621,635"/>
+<area shape="rect" id="node69" href="$a00092_a5644f1f8f75d95e61e24fdffbd9f39c9.html#a5644f1f8f75d95e61e24fdffbd9f39c9" title="inform the net about a new history of a node" alt="" coords="463,799,663,843"/>
+<area shape="rect" id="node72" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="989,858,1139,886"/>
+<area shape="rect" id="node74" href="$a00092_a0950c8302cd21dae26017663887382ce.html#a0950c8302cd21dae26017663887382ce" title="make a node accessable in a net by its name" alt="" coords="713,879,913,923"/>
+</map>

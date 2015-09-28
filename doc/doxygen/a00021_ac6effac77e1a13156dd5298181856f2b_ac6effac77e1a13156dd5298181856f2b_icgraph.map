@@ -1,0 +1,5 @@
+<map id="pnapi::formula::FormulaLess::FormulaLess" name="pnapi::formula::FormulaLess::FormulaLess">
+<area shape="rect" id="node3" href="$a00021_acda489441ade4427236f074436a6b5e7.html#acda489441ade4427236f074436a6b5e7" title="create a deep copy of the formula" alt="" coords="237,13,421,57"/>
+<area shape="rect" id="node7" href="$a00021_ac6ae72eb8cc8fa86c2c8ef60ec094a04.html#ac6ae72eb8cc8fa86c2c8ef60ec094a04" title="replace place references" alt="" coords="469,71,653,115"/>
+<area shape="rect" id="node5" href="$a00021_a98ed50ac2d3d19baa4728de3f5e052aa.html#a98ed50ac2d3d19baa4728de3f5e052aa" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="469,5,653,49"/>
+</map>

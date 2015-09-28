@@ -1,0 +1,15 @@
+<map id="pnapi::PetriNet::ReductionCache::removeTransition" name="pnapi::PetriNet::ReductionCache::removeTransition">
+<area shape="rect" id="node3" href="$a00086_a57a3a474006cc5ac62eb18446314fd1b.html#a57a3a474006cc5ac62eb18446314fd1b" title="remove dead nodes of the Petri net" alt="" coords="224,5,376,49"/>
+<area shape="rect" id="node7" href="$a00086_a9c284e055a0f703a698f3d7c52463922.html#a9c284e055a0f703a698f3d7c52463922" title="elimination of identical transitions" alt="" coords="224,71,376,115"/>
+<area shape="rect" id="node10" href="$a00086_a8275854f8b26439619919dbcc114a963.html#a8275854f8b26439619919dbcc114a963" title="elimination of parallel transitions" alt="" coords="224,138,376,182"/>
+<area shape="rect" id="node13" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="224,205,376,249"/>
+<area shape="rect" id="node16" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="224,271,376,315"/>
+<area shape="rect" id="node19" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="224,338,376,382"/>
+<area shape="rect" id="node22" href="$a00086_a2a7e6976e86d531db43c6d1106ade6fd.html#a2a7e6976e86d531db43c6d1106ade6fd" title="elimination of self&#45;loop places" alt="" coords="224,405,376,449"/>
+<area shape="rect" id="node25" href="$a00086_a736706f12ab9243164a53cd4b67bad5a.html#a736706f12ab9243164a53cd4b67bad5a" title="elimination of self&#45;loop transitions" alt="" coords="224,471,376,515"/>
+<area shape="rect" id="node28" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="224,538,376,582"/>
+<area shape="rect" id="node31" href="$a00086_ae2a6e75597454ec573eaa3c073848b0f.html#ae2a6e75597454ec573eaa3c073848b0f" title="elimination of self&#45;loop transitions" alt="" coords="224,605,376,649"/>
+<area shape="rect" id="node34" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="224,671,376,715"/>
+<area shape="rect" id="node37" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="224,738,376,782"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="424,379,576,407"/>
+</map>

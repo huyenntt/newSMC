@@ -1,0 +1,5 @@
+<map id="pnapi::Marking::getMap" name="pnapi::Marking::getMap">
+<area shape="rect" id="node3" href="$a00039_a72a5c2e0fe4f6b9e9674aafc0207788c.html#a72a5c2e0fe4f6b9e9674aafc0207788c" title="whether this marking is equal to a given other marking" alt="" coords="211,5,384,33"/>
+<area shape="rect" id="node5" href="$a00090_ac55b9e7d453649bde0bb06676991dcc0.html#ac55b9e7d453649bde0bb06676991dcc0" title="set the hash value" alt="" coords="208,55,387,83"/>
+<area shape="rect" id="node7" href="$a00090_a4c0e2297c1dbb1235d0047b8be51c0aa.html#a4c0e2297c1dbb1235d0047b8be51c0aa" title="standard constructor service automaton" alt="" coords="436,55,561,83"/>
+</map>

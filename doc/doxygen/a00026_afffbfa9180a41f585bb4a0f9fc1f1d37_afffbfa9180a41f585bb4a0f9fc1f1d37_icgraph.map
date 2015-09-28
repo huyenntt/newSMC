@@ -1,0 +1,7 @@
+<map id="pnapi::formula::Negation::Negation" name="pnapi::formula::Negation::Negation">
+<area shape="rect" id="node3" href="$a00026_a5249374ecea1d3263fa1b3a3664b59e9.html#a5249374ecea1d3263fa1b3a3664b59e9" title="create a deep copy of the formula" alt="" coords="213,5,373,49"/>
+<area shape="rect" id="node9" href="$a00026_a6ba1b2111710320dd064297fd6197d40.html#a6ba1b2111710320dd064297fd6197d40" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="213,71,373,115"/>
+<area shape="rect" id="node11" href="$a00026_a5629bf5b5fe0f4ee46dcf1d2f9e00558.html#a5629bf5b5fe0f4ee46dcf1d2f9e00558" title="replace place references" alt="" coords="213,138,373,182"/>
+<area shape="rect" id="node5" href="$a00026_acd1954d7f03afb234c1cd581ed94d262.html#acd1954d7f03afb234c1cd581ed94d262" title="negates the formula" alt="" coords="421,5,581,49"/>
+<area shape="rect" id="node7" href="$a00026_a9a10975c8a875bbd831a114e0e52b65d.html#a9a10975c8a875bbd831a114e0e52b65d" title="removes negation" alt="" coords="629,5,789,49"/>
+</map>

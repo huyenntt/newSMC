@@ -1,0 +1,19 @@
+<map id="pnapi::PetriNet::deletePlace" name="pnapi::PetriNet::deletePlace">
+<area shape="rect" id="node3" href="$a00086_af76dc238276e6a34864cee93cedcf245.html#af76dc238276e6a34864cee93cedcf245" title="cleans up the net" alt="" coords="244,5,385,33"/>
+<area shape="rect" id="node9" href="$a00040_a793dfa20786412331967f65a2939626c.html#a793dfa20786412331967f65a2939626c" title="merges another node into this one" alt="" coords="249,55,380,83"/>
+<area shape="rect" id="node11" href="$a00086_a57a3a474006cc5ac62eb18446314fd1b.html#a57a3a474006cc5ac62eb18446314fd1b" title="remove dead nodes of the Petri net" alt="" coords="239,106,391,150"/>
+<area shape="rect" id="node15" href="$a00086_a1f574589a29da2cbef3e730741ebb263.html#a1f574589a29da2cbef3e730741ebb263" title="elimination of identical places" alt="" coords="239,173,391,217"/>
+<area shape="rect" id="node18" href="$a00086_a44dfee7b8aae746c52eece297edf784c.html#a44dfee7b8aae746c52eece297edf784c" title="elimination of parallel places" alt="" coords="239,239,391,283"/>
+<area shape="rect" id="node21" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="239,306,391,350"/>
+<area shape="rect" id="node24" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="239,373,391,417"/>
+<area shape="rect" id="node27" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="239,439,391,483"/>
+<area shape="rect" id="node30" href="$a00086_a2a7e6976e86d531db43c6d1106ade6fd.html#a2a7e6976e86d531db43c6d1106ade6fd" title="elimination of self&#45;loop places" alt="" coords="239,506,391,550"/>
+<area shape="rect" id="node33" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="239,573,391,617"/>
+<area shape="rect" id="node36" href="$a00086_ada8a6e1ccf8105556b691d9e4a64bfc9.html#ada8a6e1ccf8105556b691d9e4a64bfc9" title="elimination of self&#45;loop places" alt="" coords="239,639,391,683"/>
+<area shape="rect" id="node39" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="239,706,391,750"/>
+<area shape="rect" id="node42" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="239,773,391,817"/>
+<area shape="rect" id="node45" href="$a00086_a316b5cb29df85359fffd8b1c8aaefc76.html#a316b5cb29df85359fffd8b1c8aaefc76" title="remove unused status places" alt="" coords="236,839,393,883"/>
+<area shape="rect" id="node5" href="$a00086_a9a36c8728693dc3ed8761b57ef62c224.html#a9a36c8728693dc3ed8761b57ef62c224" title="destructor" alt="" coords="443,5,611,33"/>
+<area shape="rect" id="node7" href="$a00086_a3d48fa719fa7b32ebcd6accf65109c91.html#a3d48fa719fa7b32ebcd6accf65109c91" title="copy assignment operator" alt="" coords="659,5,827,33"/>
+<area shape="rect" id="node13" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="451,481,603,509"/>
+</map>

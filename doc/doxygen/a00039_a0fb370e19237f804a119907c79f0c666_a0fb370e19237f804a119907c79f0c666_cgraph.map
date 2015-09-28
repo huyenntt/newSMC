@@ -1,0 +1,5 @@
+<map id="pnapi::Marking::getEnabledTransitions" name="pnapi::Marking::getEnabledTransitions">
+<area shape="rect" id="node3" href="$a00039_ae03d79a08d09c91d92f181db2c28e83f.html#ae03d79a08d09c91d92f181db2c28e83f" title="whether marking activates a given transition" alt="" coords="245,5,408,33"/>
+<area shape="rect" id="node7" href="$a00086_a3352e50376291412460de0638a5a47a5.html#a3352e50376291412460de0638a5a47a5" title="get transitions" alt="" coords="229,55,424,83"/>
+<area shape="rect" id="node5" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="472,5,651,33"/>
+</map>

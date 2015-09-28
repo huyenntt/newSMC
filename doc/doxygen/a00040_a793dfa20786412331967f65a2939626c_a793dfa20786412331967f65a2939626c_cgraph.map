@@ -1,0 +1,30 @@
+<map id="pnapi::Node::merge" name="pnapi::Node::merge">
+<area shape="rect" id="node3" href="$a00086_a19c6cfa0999ac0f4ec02a67a72e0598f.html#a19c6cfa0999ac0f4ec02a67a72e0598f" title="deletes a place" alt="" coords="200,223,381,251"/>
+<area shape="rect" id="node39" href="$a00086_a6e5464dea706f8c174c8aeb553d2f6a1.html#a6e5464dea706f8c174c8aeb553d2f6a1" title="deletes a transition" alt="" coords="188,173,393,201"/>
+<area shape="rect" id="node44" href="$a00040_aecdab1f10fbb543ba5e10a653047cb25.html#aecdab1f10fbb543ba5e10a653047cb25" title="merges the pre&#45;/postsets of two nodes" alt="" coords="212,363,369,391"/>
+<area shape="rect" id="node53" href="$a00040_a6a2dd82eefc6f0e61e4fc19ecf7c368e.html#a6a2dd82eefc6f0e61e4fc19ecf7c368e" title="merges the histories of two nodes" alt="" coords="187,77,395,105"/>
+<area shape="rect" id="node5" href="$a00086_a23953325e625c39a2a9ab003d275ac35.html#a23953325e625c39a2a9ab003d275ac35" title="deletes a node" alt="" coords="455,195,633,223"/>
+<area shape="rect" id="node35" href="$a00007_aaec1d3eb9edc96a0444b9986460131a0.html#aaec1d3eb9edc96a0444b9986460131a0" title="removes a place recursively" alt="" coords="463,246,625,290"/>
+<area shape="rect" id="node7" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="699,94,891,122"/>
+<area shape="rect" id="node9" href="$a00086_aa64f2ceb24f56cb2574bf8c414ba053d.html#aa64f2ceb24f56cb2574bf8c414ba053d" title="deletes an arc" alt="" coords="711,297,879,325"/>
+<area shape="rect" id="node25" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="719,351,871,379"/>
+<area shape="rect" id="node29" href="$a00040_a231755232b738fccd49768748159b8df.html#a231755232b738fccd49768748159b8df" title="returns the name history" alt="" coords="700,145,889,173"/>
+<area shape="rect" id="node31" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="716,195,873,223"/>
+<area shape="rect" id="node33" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="719,246,871,274"/>
+<area shape="rect" id="node11" href="$a00092_ad5aa66cf5757f472514bed369b584729.html#ad5aa66cf5757f472514bed369b584729" title="inform nodes abput removed arc between them" alt="" coords="945,286,1145,330"/>
+<area shape="rect" id="node13" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="1208,193,1357,221"/>
+<area shape="rect" id="node15" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="1197,243,1368,271"/>
+<area shape="rect" id="node17" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="1196,294,1369,322"/>
+<area shape="rect" id="node19" href="$a00006_aea4a709ab5f56a613448f561f5191724.html#aea4a709ab5f56a613448f561f5191724" title="transition" alt="" coords="1203,345,1363,373"/>
+<area shape="rect" id="node21" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="1224,395,1341,439"/>
+<area shape="rect" id="node23" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="1420,395,1537,439"/>
+<area shape="rect" id="node27" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="952,353,1139,381"/>
+<area shape="rect" id="node37" href="$a00016_a3da5d326c75cc35c34f4916f6a0d3b06.html#a3da5d326c75cc35c34f4916f6a0d3b06" title="removes a place recursively" alt="" coords="717,402,872,446"/>
+<area shape="rect" id="node42" href="$a00091_a13db2855e9acfbf9c3565984f59b5c87.html#a13db2855e9acfbf9c3565984f59b5c87" title="returns true, if the transition is associated to at least one synchronous label" alt="" coords="485,129,603,173"/>
+<area shape="rect" id="node46" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="460,363,628,391"/>
+<area shape="rect" id="node49" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="473,414,615,442"/>
+<area shape="rect" id="node51" href="$a00006_aac0fc10f972c6ca07b287c34d176d765.html#aac0fc10f972c6ca07b287c34d176d765" title="merges another arc into this one" alt="" coords="484,313,604,341"/>
+<area shape="rect" id="node55" href="$a00092_a5644f1f8f75d95e61e24fdffbd9f39c9.html#a5644f1f8f75d95e61e24fdffbd9f39c9" title="inform the net about a new history of a node" alt="" coords="444,45,644,89"/>
+<area shape="rect" id="node58" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="971,6,1120,34"/>
+<area shape="rect" id="node60" href="$a00092_a0950c8302cd21dae26017663887382ce.html#a0950c8302cd21dae26017663887382ce" title="make a node accessable in a net by its name" alt="" coords="695,27,895,71"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="pnapi::PetriNet::normalize" name="pnapi::PetriNet::normalize">
+<area shape="rect" id="node3" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="735,5,897,49"/>
+<area shape="rect" id="node7" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="729,71,903,115"/>
+<area shape="rect" id="node11" href="$a00030_a5a437b7d2bb98de2ea555db5e7f0a0c6.html#a5a437b7d2bb98de2ea555db5e7f0a0c6" title="returning synchronous labels" alt="" coords="223,258,431,302"/>
+<area shape="rect" id="node15" href="$a00086_a503afb77da7be07c4777da5faf3e0f4e.html#a503afb77da7be07c4777da5faf3e0f4e" title="classical normalization through expanding the interface" alt="" coords="488,195,656,239"/>
+<area shape="rect" id="node40" href="$a00086_a1eec9931ba1f409f0d906255a2c71d41.html#a1eec9931ba1f409f0d906255a2c71d41" title="normalization defined in [Aalst07]" alt="" coords="243,137,411,181"/>
+<area shape="rect" id="node5" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="975,13,1148,41"/>
+<area shape="rect" id="node9" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="969,79,1153,107"/>
+<area shape="rect" id="node13" href="$a00089_afdac03d99f91ef34d83d3f6f40eb9a48.html#afdac03d99f91ef34d83d3f6f40eb9a48" title="returning the set of synchronous label" alt="" coords="481,262,663,306"/>
+<area shape="rect" id="node17" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="757,138,875,182"/>
+<area shape="rect" id="node25" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="732,205,900,233"/>
+<area shape="rect" id="node27" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="725,255,907,283"/>
+<area shape="rect" id="node31" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="713,306,919,334"/>
+<area shape="rect" id="node34" href="$a00007_a3476a377f05909ba4bd81384debc3de1.html#a3476a377f05909ba4bd81384debc3de1" title="returns the formula" alt="" coords="724,357,908,385"/>
+<area shape="rect" id="node38" href="$a00088_ab5e0c8f1467a6e8f6147c66cd5230bd8.html#ab5e0c8f1467a6e8f6147c66cd5230bd8" title="sets the number of tokens lying on this place" alt="" coords="723,407,909,435"/>
+<area shape="rect" id="node19" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="975,138,1148,166"/>
+<area shape="rect" id="node21" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="1003,189,1120,233"/>
+<area shape="rect" id="node23" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="1204,189,1321,233"/>
+<area shape="rect" id="node29" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="976,273,1147,317"/>
+</map>

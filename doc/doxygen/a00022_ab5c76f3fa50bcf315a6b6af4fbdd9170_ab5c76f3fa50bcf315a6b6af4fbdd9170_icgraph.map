@@ -1,0 +1,5 @@
+<map id="pnapi::formula::FormulaLessEqual::FormulaLessEqual" name="pnapi::formula::FormulaLessEqual::FormulaLessEqual">
+<area shape="rect" id="node3" href="$a00022_aa9d1d4718db9d06ab1a00654fdbbd038.html#aa9d1d4718db9d06ab1a00654fdbbd038" title="create a deep copy of the formula" alt="" coords="237,13,421,57"/>
+<area shape="rect" id="node7" href="$a00022_aac7a0c3b4f8bdfa2a1013ed5305fab05.html#aac7a0c3b4f8bdfa2a1013ed5305fab05" title="replace place references" alt="" coords="469,71,653,115"/>
+<area shape="rect" id="node5" href="$a00022_a07dced9bd6f4119b1db41364bd8a5285.html#a07dced9bd6f4119b1db41364bd8a5285" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="469,5,653,49"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pnapi::io::__lola::output" name="pnapi::io::__lola::output">
+<area shape="rect" id="node3" href="$a00188_abb6f1f0e00884832f37d6b7b9a5329aa.html#abb6f1f0e00884832f37d6b7b9a5329aa" title="create a stream manipulator" alt="" coords="195,5,323,33"/>
+<area shape="rect" id="node5" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="184,55,333,83"/>
+<area shape="rect" id="node7" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="165,106,352,134"/>
+<area shape="rect" id="node9" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="169,157,348,185"/>
+</map>

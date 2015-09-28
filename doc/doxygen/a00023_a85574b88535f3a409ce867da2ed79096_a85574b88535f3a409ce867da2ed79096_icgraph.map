@@ -1,0 +1,5 @@
+<map id="pnapi::formula::FormulaNotEqual::FormulaNotEqual" name="pnapi::formula::FormulaNotEqual::FormulaNotEqual">
+<area shape="rect" id="node3" href="$a00023_a8566557cb6fb5df50f88a2555ec72fa1.html#a8566557cb6fb5df50f88a2555ec72fa1" title="create a deep copy of the formula" alt="" coords="229,13,405,57"/>
+<area shape="rect" id="node7" href="$a00023_a653a0eba6478cd81587156002021ab0b.html#a653a0eba6478cd81587156002021ab0b" title="replace place references" alt="" coords="453,71,629,115"/>
+<area shape="rect" id="node5" href="$a00023_afdea00ba68060152da63694fd4e3f2eb.html#afdea00ba68060152da63694fd4e3f2eb" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="453,5,629,49"/>
+</map>

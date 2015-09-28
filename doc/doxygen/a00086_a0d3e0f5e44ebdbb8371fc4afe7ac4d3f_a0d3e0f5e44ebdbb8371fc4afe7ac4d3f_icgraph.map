@@ -1,0 +1,8 @@
+<map id="pnapi::PetriNet::getMetaInformation" name="pnapi::PetriNet::getMetaInformation">
+<area shape="rect" id="node3" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="213,5,363,33"/>
+<area shape="rect" id="node7" href="$a00182_a60f73716dcc84acbd1d7187784fc59c2.html#a60f73716dcc84acbd1d7187784fc59c2" title="petri net output" alt="" coords="232,55,344,99"/>
+<area shape="rect" id="node10" href="$a00184_a9a6c2e9033a27f5a7aca4892da35742d.html#a9a6c2e9033a27f5a7aca4892da35742d" title="petri net output" alt="" coords="228,122,348,166"/>
+<area shape="rect" id="node13" href="$a00183_ad0d528f103b6d145baeb46b56daf2398.html#ad0d528f103b6d145baeb46b56daf2398" title="petri net output" alt="" coords="228,189,348,233"/>
+<area shape="rect" id="node16" href="$a00187_a7406d6cb57143ed9b2e5b0ccb951514f.html#a7406d6cb57143ed9b2e5b0ccb951514f" title="petri net output" alt="" coords="225,255,351,299"/>
+<area shape="rect" id="node5" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="411,130,549,158"/>
+</map>

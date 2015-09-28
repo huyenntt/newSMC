@@ -1,0 +1,7 @@
+<map id="pnapi::io::__pnml::output" name="pnapi::io::__pnml::output">
+<area shape="rect" id="node3" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="187,5,336,33"/>
+<area shape="rect" id="node5" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="187,55,336,83"/>
+<area shape="rect" id="node7" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="175,106,348,134"/>
+<area shape="rect" id="node9" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="176,157,347,185"/>
+<area shape="rect" id="node11" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="191,207,332,235"/>
+</map>

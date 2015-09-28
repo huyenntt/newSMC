@@ -1,0 +1,5 @@
+<map id="pnapi::Interface::generatePortName" name="pnapi::Interface::generatePortName">
+<area shape="rect" id="node3" href="$a00030_a7b0ff9de99f6854ee156187e37717fed.html#a7b0ff9de99f6854ee156187e37717fed" title="adding an input label" alt="" coords="245,5,411,49"/>
+<area shape="rect" id="node5" href="$a00030_a6e5a26aa756df988caca6d989c41130b.html#a6e5a26aa756df988caca6d989c41130b" title="adding an output label" alt="" coords="240,71,416,115"/>
+<area shape="rect" id="node7" href="$a00030_a470f944fbbaf18057012f90ea411524f.html#a470f944fbbaf18057012f90ea411524f" title="adding a synchronous label" alt="" coords="223,138,433,182"/>
+</map>

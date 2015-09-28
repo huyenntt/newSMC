@@ -1,0 +1,10 @@
+<map id="pnapi::formula::Operator::getChildren" name="pnapi::formula::Operator::getChildren">
+<area shape="rect" id="node3" href="$a00115_a213163fbcfa1be78272cfdf85bdc09a8.html#a213163fbcfa1be78272cfdf85bdc09a8" title="service automaton output" alt="" coords="227,5,376,33"/>
+<area shape="rect" id="node5" href="$a00182_aa90e8c985e4bde2fdeeb24c1fb5ae40d.html#aa90e8c985e4bde2fdeeb24c1fb5ae40d" title="negation output" alt="" coords="245,55,357,99"/>
+<area shape="rect" id="node7" href="$a00184_ace1f698dca3a1b9e664b18c669160757.html#ace1f698dca3a1b9e664b18c669160757" title="negation output" alt="" coords="241,122,361,166"/>
+<area shape="rect" id="node9" href="$a00183_a44423c9d0062cf6b2eff4c1fcf8002cb.html#a44423c9d0062cf6b2eff4c1fcf8002cb" title="negation output" alt="" coords="241,189,361,233"/>
+<area shape="rect" id="node11" href="$a00014_a6ba605239e654731875214a3987f7e32.html#a6ba605239e654731875214a3987f7e32" title="simplify child formulae" alt="" coords="213,255,389,299"/>
+<area shape="rect" id="node15" href="$a00015_aa0b99c58f6d35714e3efceafb16aedcf.html#aa0b99c58f6d35714e3efceafb16aedcf" title="simplify child formulae" alt="" coords="216,322,387,366"/>
+<area shape="rect" id="node13" href="$a00014_ad29e3045dd2592f3923fed0a05ea094a.html#ad29e3045dd2592f3923fed0a05ea094a" title="constructor" alt="" coords="437,255,613,299"/>
+<area shape="rect" id="node17" href="$a00015_ae3b90821e46474d621c8a6dbe890cfc3.html#ae3b90821e46474d621c8a6dbe890cfc3" title="constructor" alt="" coords="440,322,611,366"/>
+</map>

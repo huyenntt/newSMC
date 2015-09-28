@@ -1,0 +1,15 @@
+<map id="pnapi::Graph::buildGraph" name="pnapi::Graph::buildGraph">
+<area shape="rect" id="node3" href="$a00039_a6bffb1fe6ef9633b41cbd94078603c16.html#a6bffb1fe6ef9633b41cbd94078603c16" title="add a succeesor m to current marking" alt="" coords="216,5,411,33"/>
+<area shape="rect" id="node5" href="$a00029_a357f55c97dbb2481d5fa79d7503b063d.html#a357f55c97dbb2481d5fa79d7503b063d" title="pnapi::Graph::check\l_exist" alt="" coords="247,55,380,99"/>
+<area shape="rect" id="node7" href="$a00039_a0fb370e19237f804a119907c79f0c666.html#a0fb370e19237f804a119907c79f0c666" title="get all transitions enabled from marking m" alt="" coords="227,122,400,166"/>
+<area shape="rect" id="node15" href="$a00039_a8ff320fda05aec0cb44b26556b2fadec.html#a8ff320fda05aec0cb44b26556b2fadec" title="get the successor by fireing a given transition" alt="" coords="219,257,408,285"/>
+<area shape="rect" id="node9" href="$a00086_a3352e50376291412460de0638a5a47a5.html#a3352e50376291412460de0638a5a47a5" title="get transitions" alt="" coords="459,79,653,107"/>
+<area shape="rect" id="node11" href="$a00039_ae03d79a08d09c91d92f181db2c28e83f.html#ae03d79a08d09c91d92f181db2c28e83f" title="whether marking activates a given transition" alt="" coords="475,130,637,158"/>
+<area shape="rect" id="node13" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="705,130,884,158"/>
+<area shape="rect" id="node17" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="480,181,632,209"/>
+<area shape="rect" id="node19" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="477,231,635,259"/>
+<area shape="rect" id="node21" href="$a00039_aea313e3fc288a00d0710547e801305e8.html#aea313e3fc288a00d0710547e801305e8" title="constructor" alt="" coords="477,282,635,310"/>
+<area shape="rect" id="node23" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="480,333,632,361"/>
+<area shape="rect" id="node27" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="485,383,627,411"/>
+<area shape="rect" id="node25" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="701,333,888,361"/>
+</map>

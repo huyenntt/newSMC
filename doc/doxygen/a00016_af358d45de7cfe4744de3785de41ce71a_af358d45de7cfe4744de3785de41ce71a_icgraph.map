@@ -1,0 +1,21 @@
+<map id="pnapi::formula::Formula::clone" name="pnapi::formula::Formula::clone">
+<area shape="rect" id="node3" href="$a00007_a1bd283963551188e5f203a291fd056c0.html#a1bd283963551188e5f203a291fd056c0" title="conjuncts two conditions" alt="" coords="212,5,380,33"/>
+<area shape="rect" id="node7" href="$a00016_ad3cf8f9a3f84692c77d323c80fb44406.html#ad3cf8f9a3f84692c77d323c80fb44406" title="forms formula in disjunctive normal form" alt="" coords="432,122,611,150"/>
+<area shape="rect" id="node11" href="$a00016_ab2e9ff2f9ca0d9f03caa3bbf8355260e.html#ab2e9ff2f9ca0d9f03caa3bbf8355260e" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="219,290,373,334"/>
+<area shape="rect" id="node24" href="$a00027_ab18e2c4b6e7d89b1c70451880ecbe064.html#ab18e2c4b6e7d89b1c70451880ecbe064" title="copy constructor" alt="" coords="217,173,375,217"/>
+<area shape="rect" id="node26" href="$a00007_a1f63e9d7584d5536821bcc5a9d2094f5.html#a1f63e9d7584d5536821bcc5a9d2094f5" title="standard assignment operator" alt="" coords="209,239,383,267"/>
+<area shape="rect" id="node28" href="$a00016_a8c572cf14ce1a70d6da5d3ccd7ee65bc.html#a8c572cf14ce1a70d6da5d3ccd7ee65bc" title="removes negation" alt="" coords="219,55,373,99"/>
+<area shape="rect" id="node33" href="$a00023_a9524a5da507a38ea2ba7709a7bb7e261.html#a9524a5da507a38ea2ba7709a7bb7e261" title="removes negation" alt="" coords="208,357,384,401"/>
+<area shape="rect" id="node35" href="$a00016_ae6deae0c3142dcb3c8f3c46818da2584.html#ae6deae0c3142dcb3c8f3c46818da2584" title="replace place references" alt="" coords="219,423,373,467"/>
+<area shape="rect" id="node5" href="$a00086_a4da9284bde011c610596f92d6435c970.html#a4da9284bde011c610596f92d6435c970" title="compose two nets by adding the given one and merging interfaces" alt="" coords="439,5,604,33"/>
+<area shape="rect" id="node9" href="$a00007_acb1c3c91d5bed2bc6c5d07f132a41eee.html#acb1c3c91d5bed2bc6c5d07f132a41eee" title="calculate disjunctive normal form" alt="" coords="667,93,803,121"/>
+<area shape="rect" id="node13" href="$a00007_a0ca521cbf65e24f7ecd4581c9514fa69.html#a0ca521cbf65e24f7ecd4581c9514fa69" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="437,306,605,350"/>
+<area shape="rect" id="node22" href="$a00026_a6ba1b2111710320dd064297fd6197d40.html#a6ba1b2111710320dd064297fd6197d40" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="441,239,601,283"/>
+<area shape="rect" id="node15" href="$a00086_a2a7e6976e86d531db43c6d1106ade6fd.html#a2a7e6976e86d531db43c6d1106ade6fd" title="elimination of self&#45;loop places" alt="" coords="659,257,811,301"/>
+<area shape="rect" id="node19" href="$a00086_ada8a6e1ccf8105556b691d9e4a64bfc9.html#ada8a6e1ccf8105556b691d9e4a64bfc9" title="elimination of self&#45;loop places" alt="" coords="659,323,811,367"/>
+<area shape="rect" id="node17" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="859,331,1011,359"/>
+<area shape="rect" id="node30" href="$a00007_a755b2cd6a59846eabc3bab340fc73823.html#a755b2cd6a59846eabc3bab340fc73823" title="removes all negations" alt="" coords="440,55,603,99"/>
+<area shape="rect" id="node37" href="$a00007_a85524d3dd6208e40abeaa6574848a4eb.html#a85524d3dd6208e40abeaa6574848a4eb" title="replace place references" alt="" coords="441,390,601,434"/>
+<area shape="rect" id="node42" href="$a00026_a5629bf5b5fe0f4ee46dcf1d2f9e00558.html#a5629bf5b5fe0f4ee46dcf1d2f9e00558" title="replace place references" alt="" coords="441,457,601,501"/>
+<area shape="rect" id="node39" href="$a00086_a1f574589a29da2cbef3e730741ebb263.html#a1f574589a29da2cbef3e730741ebb263" title="elimination of identical places" alt="" coords="659,390,811,434"/>
+</map>

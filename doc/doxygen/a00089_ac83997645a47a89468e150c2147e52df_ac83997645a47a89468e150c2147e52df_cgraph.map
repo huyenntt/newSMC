@@ -1,0 +1,6 @@
+<map id="pnapi::Port::setName" name="pnapi::Port::setName">
+<area shape="rect" id="node3" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="199,5,380,33"/>
+<area shape="rect" id="node5" href="$a00030_a1314f6ecfa0fa33260bc0fec0db79913.html#a1314f6ecfa0fa33260bc0fec0db79913" title="returning the port that belongs to the given name" alt="" coords="211,55,368,83"/>
+<area shape="rect" id="node7" href="$a00030_a0aca5ab5d036405d9259357fb12cd6a5.html#a0aca5ab5d036405d9259357fb12cd6a5" title="rename a port" alt="" coords="199,106,380,134"/>
+<area shape="rect" id="node9" href="$a00089_a1919b4e09df931b9fb4d2584e3f3612d.html#a1919b4e09df931b9fb4d2584e3f3612d" title="return the name of the port" alt="" coords="431,106,572,134"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pnapi::Transition::addLabel" name="pnapi::Transition::addLabel">
+<area shape="rect" id="node3" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="175,5,348,33"/>
+<area shape="rect" id="node5" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="203,55,320,99"/>
+<area shape="rect" id="node7" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="399,55,516,99"/>
+</map>

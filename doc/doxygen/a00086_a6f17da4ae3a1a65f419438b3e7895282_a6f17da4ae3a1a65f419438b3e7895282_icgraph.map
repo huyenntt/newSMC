@@ -1,0 +1,14 @@
+<map id="pnapi::PetriNet::getPlaces" name="pnapi::PetriNet::getPlaces">
+<area shape="rect" id="node3" href="$a00007_a12a901813af6ef1d5b25a5acda0c9b09.html#a12a901813af6ef1d5b25a5acda0c9b09" title="creates a condition for the given marking and adds it" alt="" coords="224,50,411,78"/>
+<area shape="rect" id="node11" href="$a00007_a6a068cd732d3fd0df532631ed735729f.html#a6a068cd732d3fd0df532631ed735729f" title="forces all places not mentioned by the formula to be empty" alt="" coords="236,101,399,145"/>
+<area shape="rect" id="node18" href="$a00039_abff8260efac844f122285f49d3e7fc7b.html#abff8260efac844f122285f49d3e7fc7b" title="pnapi::Marking::check\l_hodingplace" alt="" coords="244,167,391,211"/>
+<area shape="rect" id="node20" href="$a00039_af0be356eb0a1efb7e2e5f611b0882326.html#af0be356eb0a1efb7e2e5f611b0882326" title="constructor" alt="" coords="239,234,396,262"/>
+<area shape="rect" id="node22" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="243,285,392,313"/>
+<area shape="rect" id="node26" href="$a00087_a0d16d807173fd1a4f3490bfc7a5f5947.html#a0d16d807173fd1a4f3490bfc7a5f5947" title="constructor" alt="" coords="232,335,403,379"/>
+<area shape="rect" id="node5" href="$a00068_a07afe8eb9cce5ae6b7fcc84f18564a52.html#a07afe8eb9cce5ae6b7fcc84f18564a52" title="close an element" alt="" coords="485,5,640,49"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="485,71,640,115"/>
+<area shape="rect" id="node7" href="$a00069_ab15c9de6a61499c8daa43e1ab6f39665.html#ab15c9de6a61499c8daa43e1ab6f39665" title="pnapi::parser::pnml\l::yy::BisonParser::parse" alt="" coords="719,5,873,49"/>
+<area shape="rect" id="node13" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="460,138,665,166"/>
+<area shape="rect" id="node15" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="716,138,876,166"/>
+<area shape="rect" id="node24" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="493,285,632,313"/>
+</map>

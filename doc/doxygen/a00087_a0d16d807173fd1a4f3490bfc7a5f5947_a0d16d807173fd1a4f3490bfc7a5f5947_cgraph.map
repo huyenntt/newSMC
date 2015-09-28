@@ -1,0 +1,7 @@
+<map id="pnapi::PetriNet::ReductionCache::ReductionCache" name="pnapi::PetriNet::ReductionCache::ReductionCache">
+<area shape="rect" id="node3" href="$a00086_a396370185497ee843e089dd5565c43ae.html#a396370185497ee843e089dd5565c43ae" title="get the final condition" alt="" coords="243,5,400,49"/>
+<area shape="rect" id="node5" href="$a00007_a46685a6482d2cb261c3117698899f48e.html#a46685a6482d2cb261c3117698899f48e" title="get valid interval of a place" alt="" coords="236,71,407,115"/>
+<area shape="rect" id="node9" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="236,138,407,166"/>
+<area shape="rect" id="node11" href="$a00086_a3352e50376291412460de0638a5a47a5.html#a3352e50376291412460de0638a5a47a5" title="get transitions" alt="" coords="224,189,419,217"/>
+<area shape="rect" id="node7" href="$a00016_abe467487db24b1fb0684d819bb7d43af.html#abe467487db24b1fb0684d819bb7d43af" title="get the valid interval of a place" alt="" coords="467,71,621,115"/>
+</map>

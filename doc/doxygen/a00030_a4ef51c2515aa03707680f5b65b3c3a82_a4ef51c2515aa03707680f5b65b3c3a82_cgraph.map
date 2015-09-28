@@ -1,0 +1,7 @@
+<map id="pnapi::Interface::getAsynchronousLabels" name="pnapi::Interface::getAsynchronousLabels">
+<area shape="rect" id="node3" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="275,5,437,49"/>
+<area shape="rect" id="node7" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="269,71,443,115"/>
+<area shape="rect" id="node11" href="$a00201_a98553f6447242cc43e93aa9e9a6fd497.html#a98553f6447242cc43e93aa9e9a6fd497" title="returns the union of two sets" alt="" coords="289,138,423,166"/>
+<area shape="rect" id="node5" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="497,13,671,41"/>
+<area shape="rect" id="node9" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="492,79,676,107"/>
+</map>

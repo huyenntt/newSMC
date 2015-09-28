@@ -1,0 +1,13 @@
+<map id="pnapi::util::setDifference" name="pnapi::util::setDifference">
+<area shape="rect" id="node3" href="$a00007_a6a068cd732d3fd0df532631ed735729f.html#a6a068cd732d3fd0df532631ed735729f" title="forces all places not mentioned by the formula to be empty" alt="" coords="216,26,379,70"/>
+<area shape="rect" id="node11" href="$a00030_a64f00fc87c803a133845f21330fe0af9.html#a64f00fc87c803a133845f21330fe0af9" title="compose constructor" alt="" coords="215,93,380,121"/>
+<area shape="rect" id="node13" href="$a00086_ac23afcb0fd2f9f84b2a506f172c95874.html#ac23afcb0fd2f9f84b2a506f172c95874" title="equality check for rule 4" alt="" coords="221,143,373,187"/>
+<area shape="rect" id="node15" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="457,170,609,214"/>
+<area shape="rect" id="node20" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="457,237,609,281"/>
+<area shape="rect" id="node23" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="457,303,609,347"/>
+<area shape="rect" id="node26" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="221,362,373,406"/>
+<area shape="rect" id="node5" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="431,5,636,33"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="456,55,611,99"/>
+<area shape="rect" id="node7" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="687,5,847,33"/>
+<area shape="rect" id="node17" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="691,278,843,306"/>
+</map>

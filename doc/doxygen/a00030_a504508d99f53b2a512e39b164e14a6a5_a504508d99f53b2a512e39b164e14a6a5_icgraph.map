@@ -1,0 +1,7 @@
+<map id="pnapi::Interface::isEmpty" name="pnapi::Interface::isEmpty">
+<area shape="rect" id="node3" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="217,5,367,33"/>
+<area shape="rect" id="node7" href="$a00086_a736706f12ab9243164a53cd4b67bad5a.html#a736706f12ab9243164a53cd4b67bad5a" title="elimination of self&#45;loop transitions" alt="" coords="216,55,368,99"/>
+<area shape="rect" id="node11" href="$a00086_ae2a6e75597454ec573eaa3c073848b0f.html#ae2a6e75597454ec573eaa3c073848b0f" title="elimination of self&#45;loop transitions" alt="" coords="216,122,368,166"/>
+<area shape="rect" id="node5" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="423,5,561,33"/>
+<area shape="rect" id="node9" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="416,97,568,125"/>
+</map>

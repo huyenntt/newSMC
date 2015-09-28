@@ -1,0 +1,5 @@
+<map id="pnapi::PetriNet::PetriNet" name="pnapi::PetriNet::PetriNet">
+<area shape="rect" id="node3" href="$a00086_a95fbb48f633b5d93676f7b3633910055.html#a95fbb48f633b5d93676f7b3633910055" title="sets labels (and translates references)" alt="" coords="217,5,407,49"/>
+<area shape="rect" id="node5" href="$a00086_a90c37d5baac5da014b1d223d3951d3e2.html#a90c37d5baac5da014b1d223d3951d3e2" title="find a transition by name" alt="" coords="457,13,647,41"/>
+<area shape="rect" id="node7" href="$a00086_a8b8093681a01caa4e57743570dfe242b.html#a8b8093681a01caa4e57743570dfe242b" title="find a node by name" alt="" coords="697,13,860,41"/>
+</map>

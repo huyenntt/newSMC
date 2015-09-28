@@ -1,0 +1,14 @@
+<map id="pnapi::util::setUnion" name="pnapi::util::setUnion">
+<area shape="rect" id="node3" href="$a00014_ac65dfed91d627316015ecc7d8b15592c.html#ac65dfed91d627316015ecc7d8b15592c" title="forms formula in disjunctive normal form" alt="" coords="197,47,397,75"/>
+<area shape="rect" id="node5" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="189,98,405,142"/>
+<area shape="rect" id="node21" href="$a00014_a0463e39dfda23c9264b820f3d9a7a94a.html#a0463e39dfda23c9264b820f3d9a7a94a" title="set of places implied to be empty" alt="" coords="209,165,385,209"/>
+<area shape="rect" id="node23" href="$a00030_ac5846fec4096c2b7f78b0737ccca02ff.html#ac5846fec4096c2b7f78b0737ccca02ff" title="returning input labels" alt="" coords="216,231,379,275"/>
+<area shape="rect" id="node25" href="$a00030_aa4931f46604348d14626b23469bed54f.html#aa4931f46604348d14626b23469bed54f" title="returning output labels" alt="" coords="211,298,384,342"/>
+<area shape="rect" id="node27" href="$a00030_a533b6eeb58e0be08b010684c5e2738ac.html#a533b6eeb58e0be08b010684c5e2738ac" title="returning synchronous labels" alt="" coords="193,365,401,409"/>
+<area shape="rect" id="node7" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="453,98,568,142"/>
+<area shape="rect" id="node9" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="617,5,823,33"/>
+<area shape="rect" id="node11" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="873,30,1033,58"/>
+<area shape="rect" id="node13" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="884,131,1023,159"/>
+<area shape="rect" id="node15" href="$a00188_a64f16b18a535a0e86fbe6013c08d62d0.html#a64f16b18a535a0e86fbe6013c08d62d0" title="pnapi::io::util::operator\&lt;\&lt;" alt="" coords="640,157,800,185"/>
+<area shape="rect" id="node17" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="645,207,795,235"/>
+</map>

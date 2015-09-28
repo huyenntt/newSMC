@@ -1,0 +1,11 @@
+<map id="pnapi::io::__owfn::output" name="pnapi::io::__owfn::output">
+<area shape="rect" id="node3" href="$a00188_abb6f1f0e00884832f37d6b7b9a5329aa.html#abb6f1f0e00884832f37d6b7b9a5329aa" title="create a stream manipulator" alt="" coords="203,5,331,33"/>
+<area shape="rect" id="node5" href="$a00091_a2dcdd4408363aa32f01606721314f4e0.html#a2dcdd4408363aa32f01606721314f4e0" title="get transition cost" alt="" coords="208,55,325,99"/>
+<area shape="rect" id="node7" href="$a00091_a0f0da16ddeeeb47858750c3afc509d3a.html#a0f0da16ddeeeb47858750c3afc509d3a" title="get mapping of interface labels to their weight" alt="" coords="208,122,325,166"/>
+<area shape="rect" id="node9" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="192,189,341,217"/>
+<area shape="rect" id="node11" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="173,239,360,267"/>
+<area shape="rect" id="node13" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="177,290,356,318"/>
+<area shape="rect" id="node15" href="$a00091_aa0e813a87332bc09efbc98570058d45e.html#aa0e813a87332bc09efbc98570058d45e" title="get roles" alt="" coords="208,341,325,385"/>
+<area shape="rect" id="node17" href="$a00091_a1ab5d92e05aa0ad73628d1609c8a7ffe.html#a1ab5d92e05aa0ad73628d1609c8a7ffe" title="the set of synchronous labels" alt="" coords="188,407,345,451"/>
+<area shape="rect" id="node19" href="$a00091_a13db2855e9acfbf9c3565984f59b5c87.html#a13db2855e9acfbf9c3565984f59b5c87" title="returns true, if the transition is associated to at least one synchronous label" alt="" coords="208,474,325,518"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="pnapi::Port::getInputLabels" name="pnapi::Port::getInputLabels">
+<area shape="rect" id="node3" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="229,164,392,208"/>
+<area shape="rect" id="node33" href="$a00115_aedfbce78bbf651fef7fb4b593ac4ecfc.html#aedfbce78bbf651fef7fb4b593ac4ecfc" title="port output" alt="" coords="236,231,385,259"/>
+<area shape="rect" id="node35" href="$a00183_a59d0a93f9fa7dbef0654ed1f965a1b2f.html#a59d0a93f9fa7dbef0654ed1f965a1b2f" title="port output" alt="" coords="251,281,371,325"/>
+<area shape="rect" id="node5" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="440,80,656,124"/>
+<area shape="rect" id="node7" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="731,100,845,144"/>
+<area shape="rect" id="node9" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="949,7,1099,35"/>
+<area shape="rect" id="node21" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="940,260,1108,288"/>
+<area shape="rect" id="node23" href="$a00086_a503afb77da7be07c4777da5faf3e0f4e.html#a503afb77da7be07c4777da5faf3e0f4e" title="classical normalization through expanding the interface" alt="" coords="464,248,632,292"/>
+<area shape="rect" id="node31" href="$a00183_ac1fdc48e837b9eae5ba0391c4b424355.html#ac1fdc48e837b9eae5ba0391c4b424355" title="interface output" alt="" coords="488,315,608,359"/>
+<area shape="rect" id="node11" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="1188,32,1327,60"/>
+<area shape="rect" id="node14" href="$a00188_a64f16b18a535a0e86fbe6013c08d62d0.html#a64f16b18a535a0e86fbe6013c08d62d0" title="pnapi::io::util::operator\&lt;\&lt;" alt="" coords="944,108,1104,136"/>
+<area shape="rect" id="node16" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="1177,184,1337,212"/>
+<area shape="rect" id="node18" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="921,209,1127,237"/>
+<area shape="rect" id="node26" href="$a00086_a1eec9931ba1f409f0d906255a2c71d41.html#a1eec9931ba1f409f0d906255a2c71d41" title="normalization defined in [Aalst07]" alt="" coords="704,303,872,347"/>
+</map>

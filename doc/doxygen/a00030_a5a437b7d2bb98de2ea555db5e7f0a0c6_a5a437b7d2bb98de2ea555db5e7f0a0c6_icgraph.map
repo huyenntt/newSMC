@@ -1,0 +1,6 @@
+<map id="pnapi::Interface::getSynchronousLabels" name="pnapi::Interface::getSynchronousLabels">
+<area shape="rect" id="node3" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="264,5,432,33"/>
+<area shape="rect" id="node5" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="273,55,423,83"/>
+<area shape="rect" id="node9" href="$a00183_ac1fdc48e837b9eae5ba0391c4b424355.html#ac1fdc48e837b9eae5ba0391c4b424355" title="interface output" alt="" coords="288,106,408,150"/>
+<area shape="rect" id="node7" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="480,55,619,83"/>
+</map>

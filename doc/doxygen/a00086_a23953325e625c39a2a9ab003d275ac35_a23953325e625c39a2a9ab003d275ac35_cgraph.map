@@ -1,0 +1,16 @@
+<map id="pnapi::PetriNet::deleteNode" name="pnapi::PetriNet::deleteNode">
+<area shape="rect" id="node3" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="233,59,425,87"/>
+<area shape="rect" id="node5" href="$a00086_aa64f2ceb24f56cb2574bf8c414ba053d.html#aa64f2ceb24f56cb2574bf8c414ba053d" title="deletes an arc" alt="" coords="245,110,413,138"/>
+<area shape="rect" id="node21" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="253,161,405,189"/>
+<area shape="rect" id="node25" href="$a00040_a231755232b738fccd49768748159b8df.html#a231755232b738fccd49768748159b8df" title="returns the name history" alt="" coords="235,211,424,239"/>
+<area shape="rect" id="node27" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="251,262,408,290"/>
+<area shape="rect" id="node29" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="253,313,405,341"/>
+<area shape="rect" id="node7" href="$a00092_ad5aa66cf5757f472514bed369b584729.html#ad5aa66cf5757f472514bed369b584729" title="inform nodes abput removed arc between them" alt="" coords="476,98,676,142"/>
+<area shape="rect" id="node9" href="$a00006_a834356ec4a9e764f87a4ababcf7018d5.html#a834356ec4a9e764f87a4ababcf7018d5" title="returns the Petri net this arc belongs to" alt="" coords="739,5,888,33"/>
+<area shape="rect" id="node11" href="$a00006_a912566050c35c77bf1ed0c110c8d9096.html#a912566050c35c77bf1ed0c110c8d9096" title="target node" alt="" coords="728,55,899,83"/>
+<area shape="rect" id="node13" href="$a00006_a6330d771bc80e76725c32a0fa1102297.html#a6330d771bc80e76725c32a0fa1102297" title="source node" alt="" coords="727,106,900,134"/>
+<area shape="rect" id="node15" href="$a00006_aea4a709ab5f56a613448f561f5191724.html#aea4a709ab5f56a613448f561f5191724" title="transition" alt="" coords="733,157,893,185"/>
+<area shape="rect" id="node17" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="755,207,872,251"/>
+<area shape="rect" id="node19" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="951,207,1068,251"/>
+<area shape="rect" id="node23" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="483,165,669,193"/>
+</map>

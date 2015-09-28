@@ -1,0 +1,5 @@
+<map id="pnapi::Transition::getOutputLabels" name="pnapi::Transition::getOutputLabels">
+<area shape="rect" id="node3" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="176,5,328,49"/>
+<area shape="rect" id="node7" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="176,71,328,115"/>
+<area shape="rect" id="node5" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="376,46,528,74"/>
+</map>

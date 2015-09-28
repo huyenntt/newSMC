@@ -1,0 +1,15 @@
+<map id="pnapi.cc" name="pnapi.cc">
+<area shape="rect" id="node3" href="$a00170.html" title="Petri Net API main header." alt="" coords="240,83,301,111"/>
+<area shape="rect" id="node5" href="$a00104.html" title="config.h" alt="" coords="240,547,307,575"/>
+<area shape="rect" id="node11" href="$a00103.html" title="condition.h" alt="" coords="576,238,659,266"/>
+<area shape="rect" id="node17" href="$a00119.html" title="Input/Output related Structures." alt="" coords="337,393,396,421"/>
+<area shape="rect" id="node19" href="$a00106.html" title="exception classes" alt="" coords="277,470,363,498"/>
+<area shape="rect" id="node44" href="$a00117.html" title="marking.h" alt="" coords="43,393,120,421"/>
+<area shape="rect" id="node50" href="$a00167.html" title="Class PetriNet." alt="" coords="384,161,459,189"/>
+<area shape="rect" id="node72" href="$a00111.html" title="graph.h" alt="" coords="93,161,157,189"/>
+<area shape="rect" id="node14" href="$a00109.html" title="formula.h" alt="" coords="505,315,580,343"/>
+<area shape="rect" id="node26" href="$a00175.html" title="utility functions" alt="" coords="632,470,680,498"/>
+<area shape="rect" id="node53" href="$a00101.html" title="Nodes and Arcs for Petri nets." alt="" coords="883,470,979,498"/>
+<area shape="rect" id="node62" href="$a00113.html" title="Class Interface." alt="" coords="424,393,507,421"/>
+<area shape="rect" id="node65" href="$a00172.html" title="Class Port." alt="" coords="755,470,808,498"/>
+</map>

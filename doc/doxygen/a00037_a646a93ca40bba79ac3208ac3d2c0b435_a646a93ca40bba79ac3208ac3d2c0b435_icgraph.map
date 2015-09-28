@@ -1,0 +1,17 @@
+<map id="pnapi::io::util::StreamMetaData::data" name="pnapi::io::util::StreamMetaData::data">
+<area shape="rect" id="node3" href="$a00189_ab8523f97f5d06d2876f9e084a1580628.html#ab8523f97f5d06d2876f9e084a1580628" title="called by generated lexers/parsers" alt="" coords="231,21,407,49"/>
+<area shape="rect" id="node5" href="$a00002_ac751561e3dce52430cf53f1f79b849af.html#ac751561e3dce52430cf53f1f79b849af" title="&quot;assertion&quot;" alt="" coords="225,138,412,182"/>
+<area shape="rect" id="node13" href="$a00086_a0d3e0f5e44ebdbb8371fc4afe7ac4d3f.html#a0d3e0f5e44ebdbb8371fc4afe7ac4d3f" title="returns the meta information if available" alt="" coords="239,322,399,366"/>
+<area shape="rect" id="node17" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="664,363,803,391"/>
+<area shape="rect" id="node32" href="$a00188_a64f16b18a535a0e86fbe6013c08d62d0.html#a64f16b18a535a0e86fbe6013c08d62d0" title="pnapi::io::util::operator\&lt;\&lt;" alt="" coords="239,573,399,601"/>
+<area shape="rect" id="node34" href="$a00181_a55fb809664cc65ac04c9929366a51c11.html#a55fb809664cc65ac04c9929366a51c11" title="PetriNet input" alt="" coords="249,623,388,651"/>
+<area shape="rect" id="node36" href="$a00002_adc30001f8c7cb8c197051544246b190b.html#adc30001f8c7cb8c197051544246b190b" title="rethrow a caught exception as InputError" alt="" coords="225,71,412,115"/>
+<area shape="rect" id="node7" href="$a00042_ae6b307e4480bf47cadc4fdf8055effab.html#ae6b307e4480bf47cadc4fdf8055effab" title="pnapi::parser::lola\l::yy::BisonParser::parse" alt="" coords="461,5,616,49"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="461,71,616,115"/>
+<area shape="rect" id="node11" href="$a00078_a18ad1fa140e715d5cbb1ff7fb5ccb06a.html#a18ad1fa140e715d5cbb1ff7fb5ccb06a" title="pnapi::parser::woflan\l::yy::BisonParser::parse" alt="" coords="461,138,616,182"/>
+<area shape="rect" id="node15" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="464,205,613,233"/>
+<area shape="rect" id="node19" href="$a00182_a60f73716dcc84acbd1d7187784fc59c2.html#a60f73716dcc84acbd1d7187784fc59c2" title="petri net output" alt="" coords="483,255,595,299"/>
+<area shape="rect" id="node22" href="$a00184_a9a6c2e9033a27f5a7aca4892da35742d.html#a9a6c2e9033a27f5a7aca4892da35742d" title="petri net output" alt="" coords="479,322,599,366"/>
+<area shape="rect" id="node25" href="$a00183_ad0d528f103b6d145baeb46b56daf2398.html#ad0d528f103b6d145baeb46b56daf2398" title="petri net output" alt="" coords="479,389,599,433"/>
+<area shape="rect" id="node28" href="$a00187_a7406d6cb57143ed9b2e5b0ccb951514f.html#a7406d6cb57143ed9b2e5b0ccb951514f" title="petri net output" alt="" coords="476,455,601,499"/>
+</map>

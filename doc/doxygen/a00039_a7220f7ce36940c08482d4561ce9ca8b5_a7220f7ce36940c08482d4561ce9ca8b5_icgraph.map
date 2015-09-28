@@ -1,0 +1,6 @@
+<map id="pnapi::Marking::getPetriNet" name="pnapi::Marking::getPetriNet">
+<area shape="rect" id="node3" href="$a00007_a12a901813af6ef1d5b25a5acda0c9b09.html#a12a901813af6ef1d5b25a5acda0c9b09" title="creates a condition for the given marking and adds it" alt="" coords="232,46,419,74"/>
+<area shape="rect" id="node5" href="$a00068_a07afe8eb9cce5ae6b7fcc84f18564a52.html#a07afe8eb9cce5ae6b7fcc84f18564a52" title="close an element" alt="" coords="468,5,623,49"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="468,71,623,115"/>
+<area shape="rect" id="node7" href="$a00069_ab15c9de6a61499c8daa43e1ab6f39665.html#ab15c9de6a61499c8daa43e1ab6f39665" title="pnapi::parser::pnml\l::yy::BisonParser::parse" alt="" coords="672,5,827,49"/>
+</map>

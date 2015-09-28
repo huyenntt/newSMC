@@ -1,0 +1,12 @@
+<map id="pnapi::PetriNet::findNode" name="pnapi::PetriNet::findNode">
+<area shape="rect" id="node3" href="$a00089_ab3bfcf6513fb63f163cdbbfd0925cdd8.html#ab3bfcf6513fb63f163cdbbfd0925cdd8" title="adding a label with a given type" alt="" coords="245,5,387,33"/>
+<area shape="rect" id="node5" href="$a00086_a9745ab562e6d35dc860380d4a8210035.html#a9745ab562e6d35dc860380d4a8210035" title="whether net contains given node" alt="" coords="220,55,412,83"/>
+<area shape="rect" id="node7" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="463,157,668,185"/>
+<area shape="rect" id="node11" href="$a00086_ad5c2148de0cc433ad5ec13c833f96394.html#ad5c2148de0cc433ad5ec13c833f96394" title="find a place by name" alt="" coords="233,106,399,134"/>
+<area shape="rect" id="node16" href="$a00086_a90c37d5baac5da014b1d223d3951d3e2.html#a90c37d5baac5da014b1d223d3951d3e2" title="find a transition by name" alt="" coords="221,207,411,235"/>
+<area shape="rect" id="node9" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="719,157,879,185"/>
+<area shape="rect" id="node14" href="$a00086_a06df5ec8b999fdaad5ecb26d572d297d.html#a06df5ec8b999fdaad5ecb26d572d297d" title="guess a place relation" alt="" coords="475,90,656,134"/>
+<area shape="rect" id="node19" href="$a00086_a95fbb48f633b5d93676f7b3633910055.html#a95fbb48f633b5d93676f7b3633910055" title="sets labels (and translates references)" alt="" coords="471,207,660,251"/>
+<area shape="rect" id="node21" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="721,262,876,306"/>
+<area shape="rect" id="node23" href="$a00086_a5490e8bd6c15886e4e9ca73eab6ce703.html#a5490e8bd6c15886e4e9ca73eab6ce703" title="copy constructor" alt="" coords="719,211,879,239"/>
+</map>

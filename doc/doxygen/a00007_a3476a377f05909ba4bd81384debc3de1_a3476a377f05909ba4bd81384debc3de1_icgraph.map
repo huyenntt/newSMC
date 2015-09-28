@@ -1,0 +1,13 @@
+<map id="pnapi::Condition::getFormula" name="pnapi::Condition::getFormula">
+<area shape="rect" id="node3" href="$a00007_a1bd283963551188e5f203a291fd056c0.html#a1bd283963551188e5f203a291fd056c0" title="conjuncts two conditions" alt="" coords="257,5,425,33"/>
+<area shape="rect" id="node7" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="239,55,444,83"/>
+<area shape="rect" id="node11" href="$a00007_a3508ad723ac361d9248be65d717c3e92.html#a3508ad723ac361d9248be65d717c3e92" title="negates the formula" alt="" coords="263,106,420,134"/>
+<area shape="rect" id="node13" href="$a00086_a503afb77da7be07c4777da5faf3e0f4e.html#a503afb77da7be07c4777da5faf3e0f4e" title="classical normalization through expanding the interface" alt="" coords="257,157,425,201"/>
+<area shape="rect" id="node20" href="$a00188_a2b96f30348ce96b366159e937f383648.html#a2b96f30348ce96b366159e937f383648" title="output condition" alt="" coords="261,223,421,251"/>
+<area shape="rect" id="node22" href="$a00183_ad0d528f103b6d145baeb46b56daf2398.html#ad0d528f103b6d145baeb46b56daf2398" title="petri net output" alt="" coords="281,274,401,318"/>
+<area shape="rect" id="node5" href="$a00086_a4da9284bde011c610596f92d6435c970.html#a4da9284bde011c610596f92d6435c970" title="compose two nets by adding the given one and merging interfaces" alt="" coords="495,5,660,33"/>
+<area shape="rect" id="node9" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="497,55,657,83"/>
+<area shape="rect" id="node15" href="$a00086_a832a48353ba43617c32b9163515935ae.html#a832a48353ba43617c32b9163515935ae" title="normalizes the Petri net" alt="" coords="709,165,877,193"/>
+<area shape="rect" id="node17" href="$a00086_a1eec9931ba1f409f0d906255a2c71d41.html#a1eec9931ba1f409f0d906255a2c71d41" title="normalization defined in [Aalst07]" alt="" coords="493,186,661,230"/>
+<area shape="rect" id="node24" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="508,282,647,310"/>
+</map>

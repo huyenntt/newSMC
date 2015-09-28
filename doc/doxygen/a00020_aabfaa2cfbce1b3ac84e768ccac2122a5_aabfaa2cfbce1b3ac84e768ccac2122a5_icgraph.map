@@ -1,0 +1,5 @@
+<map id="pnapi::formula::FormulaGreaterEqual::FormulaGreaterEqual" name="pnapi::formula::FormulaGreaterEqual::FormulaGreaterEqual">
+<area shape="rect" id="node3" href="$a00020_a51e08c1860ddca8b3b09b90ab2005ebc.html#a51e08c1860ddca8b3b09b90ab2005ebc" title="create a deep copy of the formula" alt="" coords="255,13,452,57"/>
+<area shape="rect" id="node7" href="$a00020_a872bfd044f1f14854655624fe23deda9.html#a872bfd044f1f14854655624fe23deda9" title="replace place references" alt="" coords="503,71,700,115"/>
+<area shape="rect" id="node5" href="$a00020_a02c38ea8cc208d5e7d1dc6a0a0058cdb.html#a02c38ea8cc208d5e7d1dc6a0a0058cdb" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="503,5,700,49"/>
+</map>

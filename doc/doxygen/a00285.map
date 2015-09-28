@@ -1,0 +1,20 @@
+<map id="parser&#45;pnml.cc" name="parser&#45;pnml.cc">
+<area shape="rect" id="node3" href="$a00104.html" title="config.h" alt="" coords="149,625,216,653"/>
+<area shape="rect" id="node7" href="$a00151.html" title="Parser Related Structures." alt="" coords="1085,83,1235,111"/>
+<area shape="rect" id="node80" href="$a00153.html" title="parser&#45;pnml.h" alt="" coords="1273,393,1372,421"/>
+<area shape="rect" id="node10" href="$a00107.html" title="FlexLexer.h" alt="" coords="1197,161,1285,189"/>
+<area shape="rect" id="node14" href="$a00163.html" title="Parser Related Structures." alt="" coords="795,161,861,189"/>
+<area shape="rect" id="node17" href="$a00167.html" title="Class PetriNet." alt="" coords="743,238,817,266"/>
+<area shape="rect" id="node38" href="$a00106.html" title="exception classes" alt="" coords="995,547,1080,575"/>
+<area shape="rect" id="node62" href="$a00172.html" title="Class Port." alt="" coords="747,547,800,575"/>
+<area shape="rect" id="node70" href="$a00174.html" title="state.h" alt="" coords="747,393,808,421"/>
+<area shape="rect" id="node20" href="$a00101.html" title="Nodes and Arcs for Petri nets." alt="" coords="875,547,971,575"/>
+<area shape="rect" id="node30" href="$a00103.html" title="condition.h" alt="" coords="533,315,616,343"/>
+<area shape="rect" id="node59" href="$a00113.html" title="Class Interface." alt="" coords="451,470,533,498"/>
+<area shape="rect" id="node33" href="$a00109.html" title="formula.h" alt="" coords="537,393,612,421"/>
+<area shape="rect" id="node36" href="$a00119.html" title="Input/Output related Structures." alt="" coords="612,470,671,498"/>
+<area shape="rect" id="node43" href="$a00175.html" title="utility functions" alt="" coords="624,547,672,575"/>
+<area shape="rect" id="node84" href="$a00149.html" title="parser&#45;pnml&#45;stack.h" alt="" coords="1421,470,1557,498"/>
+<area shape="rect" id="node87" href="$a00147.html" title="parser&#45;pnml&#45;location.h" alt="" coords="1248,470,1397,498"/>
+<area shape="rect" id="node91" href="$a00148.html" title="parser&#45;pnml&#45;position.h" alt="" coords="1205,547,1355,575"/>
+</map>

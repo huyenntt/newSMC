@@ -1,0 +1,14 @@
+<map id="pnapi::Node::getPresetArcs" name="pnapi::Node::getPresetArcs">
+<area shape="rect" id="node3" href="$a00039_ae03d79a08d09c91d92f181db2c28e83f.html#ae03d79a08d09c91d92f181db2c28e83f" title="whether marking activates a given transition" alt="" coords="239,13,401,41"/>
+<area shape="rect" id="node9" href="$a00086_ab03606dfdc1c68bef1de6de3ae7acb01.html#ab03606dfdc1c68bef1de6de3ae7acb01" title="creates arcs for a transition based on the arcs of another one" alt="" coords="232,63,408,91"/>
+<area shape="rect" id="node11" href="$a00182_a210ce1ede7a3e1ae041dca293c6dc058.html#a210ce1ede7a3e1ae041dca293c6dc058" title="transition output" alt="" coords="264,114,376,158"/>
+<area shape="rect" id="node13" href="$a00183_aa1330e676f2f196edf4b9c9e2770c5c7.html#aa1330e676f2f196edf4b9c9e2770c5c7" title="transition output" alt="" coords="260,181,380,225"/>
+<area shape="rect" id="node15" href="$a00187_af359489829ab0796afdb6475890bfb1f.html#af359489829ab0796afdb6475890bfb1f" title="transition output" alt="" coords="257,247,383,291"/>
+<area shape="rect" id="node17" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="244,314,396,358"/>
+<area shape="rect" id="node21" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="244,381,396,425"/>
+<area shape="rect" id="node24" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="244,447,396,491"/>
+<area shape="rect" id="node27" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="244,514,396,558"/>
+<area shape="rect" id="node5" href="$a00039_a0fb370e19237f804a119907c79f0c666.html#a0fb370e19237f804a119907c79f0c666" title="get all transitions enabled from marking m" alt="" coords="457,5,631,49"/>
+<area shape="rect" id="node7" href="$a00029_a64c71aaac9b7f91155606cff67b9d110.html#a64c71aaac9b7f91155606cff67b9d110" title="pnapi::Graph::buildGraph" alt="" coords="680,13,843,41"/>
+<area shape="rect" id="node19" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="468,422,620,450"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="pnapi::util::setIntersection" name="pnapi::util::setIntersection">
+<area shape="rect" id="node3" href="$a00086_a4da9284bde011c610596f92d6435c970.html#a4da9284bde011c610596f92d6435c970" title="compose two nets by adding the given one and merging interfaces" alt="" coords="233,5,399,33"/>
+<area shape="rect" id="node5" href="$a00015_a820002cc98b5af4519bc08aabadd8252.html#a820002cc98b5af4519bc08aabadd8252" title="set of places implied to be empty" alt="" coords="231,55,401,99"/>
+<area shape="rect" id="node7" href="$a00030_a64f00fc87c803a133845f21330fe0af9.html#a64f00fc87c803a133845f21330fe0af9" title="compose constructor" alt="" coords="233,122,399,150"/>
+<area shape="rect" id="node9" href="$a00086_a17695c7f9ed8617fbd6a857f2d416068.html#a17695c7f9ed8617fbd6a857f2d416068" title="checks the Petri net for free choice criterion" alt="" coords="221,173,411,201"/>
+<area shape="rect" id="node11" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="240,223,392,267"/>
+<area shape="rect" id="node15" href="$a00086_ada8a6e1ccf8105556b691d9e4a64bfc9.html#ada8a6e1ccf8105556b691d9e4a64bfc9" title="elimination of self&#45;loop places" alt="" coords="240,290,392,334"/>
+<area shape="rect" id="node18" href="$a00086_ae2a6e75597454ec573eaa3c073848b0f.html#ae2a6e75597454ec573eaa3c073848b0f" title="elimination of self&#45;loop transitions" alt="" coords="240,357,392,401"/>
+<area shape="rect" id="node21" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="240,423,392,467"/>
+<area shape="rect" id="node24" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="240,490,392,534"/>
+<area shape="rect" id="node13" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="459,365,611,393"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pnapi::formula::Formula::getPlaces" name="pnapi::formula::Formula::getPlaces">
+<area shape="rect" id="node3" href="$a00007_a6a068cd732d3fd0df532631ed735729f.html#a6a068cd732d3fd0df532631ed735729f" title="forces all places not mentioned by the formula to be empty" alt="" coords="219,55,381,99"/>
+<area shape="rect" id="node11" href="$a00007_a8372981be7a29b9ea7eb9a951814be5d.html#a8372981be7a29b9ea7eb9a951814be5d" title="returns a set of places, which don&#39;t have to be empty" alt="" coords="209,122,391,166"/>
+<area shape="rect" id="node5" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="441,5,647,33"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="467,55,621,99"/>
+<area shape="rect" id="node7" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="697,5,857,33"/>
+<area shape="rect" id="node13" href="$a00183_ad0d528f103b6d145baeb46b56daf2398.html#ad0d528f103b6d145baeb46b56daf2398" title="petri net output" alt="" coords="484,122,604,166"/>
+<area shape="rect" id="node15" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="708,130,847,158"/>
+</map>

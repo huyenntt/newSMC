@@ -1,0 +1,51 @@
+<map id="config.h" name="config.h">
+<area shape="rect" id="node3" href="$a00100.html" title="component.cc" alt="" coords="1384,470,1485,498"/>
+<area shape="rect" id="node5" href="$a00168.html" title="assertion makros" alt="" coords="1435,393,1536,421"/>
+<area shape="rect" id="node8" href="$a00102.html" title="condition.cc" alt="" coords="840,470,931,498"/>
+<area shape="rect" id="node10" href="$a00108.html" title="formula.cc" alt="" coords="1005,470,1088,498"/>
+<area shape="rect" id="node12" href="$a00112.html" title="Interface class holding asynchronous and synchronous communication." alt="" coords="1221,470,1309,498"/>
+<area shape="rect" id="node14" href="$a00114.html" title="io&#45;format.cc" alt="" coords="1560,470,1651,498"/>
+<area shape="rect" id="node16" href="$a00116.html" title="marking.cc" alt="" coords="1112,470,1197,498"/>
+<area shape="rect" id="node18" href="$a00118.html" title="myio.cc" alt="" coords="2869,547,2936,575"/>
+<area shape="rect" id="node20" href="$a00164.html" title="petrinet&#45;pn.cc" alt="" coords="2653,625,2752,653"/>
+<area shape="rect" id="node22" href="$a00166.html" title="Petri net basics." alt="" coords="1952,470,2035,498"/>
+<area shape="rect" id="node24" href="$a00171.html" title="Class Port and class Label." alt="" coords="1816,470,1877,498"/>
+<area shape="rect" id="node26" href="$a00106.html" title="exception classes" alt="" coords="2436,83,2521,111"/>
+<area shape="rect" id="node31" href="$a00109.html" title="formula.h" alt="" coords="1208,238,1283,266"/>
+<area shape="rect" id="node33" href="$a00103.html" title="condition.h" alt="" coords="1075,315,1157,343"/>
+<area shape="rect" id="node35" href="$a00167.html" title="Class PetriNet." alt="" coords="2244,393,2319,421"/>
+<area shape="rect" id="node42" href="$a00163.html" title="Parser Related Structures." alt="" coords="2971,470,3037,498"/>
+<area shape="rect" id="node45" href="$a00127.html" title="Parser Related Structures." alt="" coords="763,547,904,575"/>
+<area shape="rect" id="node49" href="$a00126.html" title="parser&#45;lola&#45;wrapper.cc" alt="" coords="595,625,744,653"/>
+<area shape="rect" id="node51" href="$a00128.html" title="parser&#45;lola.cc" alt="" coords="472,625,571,653"/>
+<area shape="rect" id="node53" href="$a00135.html" title="Parser Related Structures." alt="" coords="2960,547,3109,575"/>
+<area shape="rect" id="node55" href="$a00130.html" title="parser&#45;owfn&#45;lexer.cc" alt="" coords="2965,625,3104,653"/>
+<area shape="rect" id="node57" href="$a00134.html" title="parser&#45;owfn&#45;wrapper.cc" alt="" coords="2472,625,2629,653"/>
+<area shape="rect" id="node61" href="$a00143.html" title="Parser Related Structures." alt="" coords="3303,547,3439,575"/>
+<area shape="rect" id="node63" href="$a00138.html" title="parser&#45;pn&#45;lexer.cc" alt="" coords="3344,625,3467,653"/>
+<area shape="rect" id="node65" href="$a00142.html" title="parser&#45;pn&#45;wrapper.cc" alt="" coords="923,625,1064,653"/>
+<area shape="rect" id="node67" href="$a00144.html" title="parser&#45;pn.cc" alt="" coords="3689,625,3783,653"/>
+<area shape="rect" id="node70" href="$a00151.html" title="Parser Related Structures." alt="" coords="3999,547,4148,575"/>
+<area shape="rect" id="node72" href="$a00146.html" title="parser&#45;pnml&#45;lexer.cc" alt="" coords="4008,625,4147,653"/>
+<area shape="rect" id="node74" href="$a00150.html" title="parser&#45;pnml&#45;wrapper.cc" alt="" coords="3128,625,3285,653"/>
+<area shape="rect" id="node76" href="$a00152.html" title="parser&#45;pnml.cc" alt="" coords="4179,625,4285,653"/>
+<area shape="rect" id="node78" href="$a00159.html" title="Parser Related Structures." alt="" coords="3665,547,3823,575"/>
+<area shape="rect" id="node82" href="$a00158.html" title="parser&#45;woflan&#45;wrapper.cc" alt="" coords="2776,625,2941,653"/>
+<area shape="rect" id="node84" href="$a00160.html" title="parser&#45;woflan.cc" alt="" coords="3551,625,3665,653"/>
+<area shape="rect" id="node86" href="$a00162.html" title="parser.cc" alt="" coords="2669,547,2744,575"/>
+<area shape="rect" id="node98" href="$a00165.html" title="Petri Net API: structural reduction." alt="" coords="3112,470,3251,498"/>
+<area shape="rect" id="node101" href="$a00170.html" title="Petri Net API main header." alt="" coords="491,547,552,575"/>
+<area shape="rect" id="node122" href="$a00105.html" title="Collection of exception classes." alt="" coords="2549,161,2643,189"/>
+<area shape="rect" id="node125" href="$a00120.html" title="Output.cc" alt="" coords="2667,161,2744,189"/>
+<area shape="rect" id="node131" href="$a00113.html" title="Class Interface." alt="" coords="1564,315,1647,343"/>
+<area shape="rect" id="node137" href="$a00117.html" title="marking.h" alt="" coords="645,393,723,421"/>
+<area shape="rect" id="node143" href="$a00110.html" title="graph.cc" alt="" coords="1852,547,1921,575"/>
+<area shape="rect" id="node155" href="$a00173.html" title="state.cc" alt="" coords="1725,470,1792,498"/>
+<area shape="rect" id="node190" href="$a00176.html" title="verbose.cc" alt="" coords="4273,83,4359,111"/>
+<area shape="rect" id="node29" href="$a00119.html" title="Input/Output related Structures." alt="" coords="2416,161,2475,189"/>
+<area shape="rect" id="node59" href="$a00136.html" title="parser&#45;owfn.cc" alt="" coords="1088,625,1195,653"/>
+<area shape="rect" id="node47" href="$a00122.html" title="parser&#45;lola&#45;lexer.cc" alt="" coords="768,625,899,653"/>
+<area shape="rect" id="node80" href="$a00154.html" title="parser&#45;woflan&#45;lexer.cc" alt="" coords="3807,625,3953,653"/>
+<area shape="rect" id="node103" href="$a00169.html" title="pnapi.cc" alt="" coords="379,625,448,653"/>
+<area shape="rect" id="node141" href="$a00111.html" title="graph.h" alt="" coords="549,470,613,498"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pnapi::Node::mergeArcs" name="pnapi::Node::mergeArcs">
+<area shape="rect" id="node3" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="215,5,383,33"/>
+<area shape="rect" id="node5" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="223,55,375,83"/>
+<area shape="rect" id="node9" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="228,106,369,134"/>
+<area shape="rect" id="node11" href="$a00006_aac0fc10f972c6ca07b287c34d176d765.html#aac0fc10f972c6ca07b287c34d176d765" title="merges another arc into this one" alt="" coords="239,157,359,185"/>
+<area shape="rect" id="node7" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="432,55,619,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pnapi::Interface::addInputLabel" name="pnapi::Interface::addInputLabel">
+<area shape="rect" id="node3" href="$a00089_acdfaf4daa7aaaf2e5b93d9c7066ddc6f.html#acdfaf4daa7aaaf2e5b93d9c7066ddc6f" title="adding an input label" alt="" coords="221,5,392,33"/>
+<area shape="rect" id="node5" href="$a00030_acef32e25ff1e4829bdb8cc6ef9166a85.html#acef32e25ff1e4829bdb8cc6ef9166a85" title="adding a single port" alt="" coords="227,55,387,83"/>
+<area shape="rect" id="node7" href="$a00030_a4255c34997a2b27ae3d0dd1dd170d5f1.html#a4255c34997a2b27ae3d0dd1dd170d5f1" title="generate unused port name" alt="" coords="224,106,389,150"/>
+</map>

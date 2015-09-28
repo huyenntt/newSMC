@@ -1,0 +1,19 @@
+<map id="parser&#45;pnml&#45;wrapper.h" name="parser&#45;pnml&#45;wrapper.h">
+<area shape="rect" id="node3" href="$a00104.html" title="config.h" alt="" coords="169,547,236,575"/>
+<area shape="rect" id="node7" href="$a00107.html" title="FlexLexer.h" alt="" coords="1431,83,1519,111"/>
+<area shape="rect" id="node11" href="$a00163.html" title="Parser Related Structures." alt="" coords="808,83,875,111"/>
+<area shape="rect" id="node77" href="$a00153.html" title="parser&#45;pnml.h" alt="" coords="1231,315,1329,343"/>
+<area shape="rect" id="node14" href="$a00167.html" title="Class PetriNet." alt="" coords="424,161,499,189"/>
+<area shape="rect" id="node35" href="$a00106.html" title="exception classes" alt="" coords="1045,470,1131,498"/>
+<area shape="rect" id="node59" href="$a00172.html" title="Class Port." alt="" coords="448,470,501,498"/>
+<area shape="rect" id="node67" href="$a00174.html" title="state.h" alt="" coords="667,315,728,343"/>
+<area shape="rect" id="node17" href="$a00101.html" title="Nodes and Arcs for Petri nets." alt="" coords="875,470,971,498"/>
+<area shape="rect" id="node27" href="$a00103.html" title="condition.h" alt="" coords="420,238,503,266"/>
+<area shape="rect" id="node56" href="$a00113.html" title="Class Interface." alt="" coords="240,393,323,421"/>
+<area shape="rect" id="node30" href="$a00109.html" title="formula.h" alt="" coords="424,315,499,343"/>
+<area shape="rect" id="node33" href="$a00119.html" title="Input/Output related Structures." alt="" coords="669,393,728,421"/>
+<area shape="rect" id="node40" href="$a00175.html" title="utility functions" alt="" coords="627,470,675,498"/>
+<area shape="rect" id="node81" href="$a00149.html" title="parser&#45;pnml&#45;stack.h" alt="" coords="1379,393,1515,421"/>
+<area shape="rect" id="node84" href="$a00147.html" title="parser&#45;pnml&#45;location.h" alt="" coords="1205,393,1355,421"/>
+<area shape="rect" id="node88" href="$a00148.html" title="parser&#45;pnml&#45;position.h" alt="" coords="1205,470,1355,498"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="pnapi::io::operator&lt;&lt;" name="pnapi::io::operator&lt;&lt;">
+<area shape="rect" id="node3" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="672,694,840,738"/>
+<area shape="rect" id="node5" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="437,114,552,158"/>
+<area shape="rect" id="node21" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="192,458,341,486"/>
+<area shape="rect" id="node47" href="$a00182_a60f73716dcc84acbd1d7187784fc59c2.html#a60f73716dcc84acbd1d7187784fc59c2" title="petri net output" alt="" coords="211,770,323,814"/>
+<area shape="rect" id="node56" href="$a00184_a9a6c2e9033a27f5a7aca4892da35742d.html#a9a6c2e9033a27f5a7aca4892da35742d" title="petri net output" alt="" coords="207,858,327,902"/>
+<area shape="rect" id="node63" href="$a00183_ad0d528f103b6d145baeb46b56daf2398.html#ad0d528f103b6d145baeb46b56daf2398" title="petri net output" alt="" coords="207,1026,327,1070"/>
+<area shape="rect" id="node86" href="$a00187_a7406d6cb57143ed9b2e5b0ccb951514f.html#a7406d6cb57143ed9b2e5b0ccb951514f" title="petri net output" alt="" coords="204,703,329,747"/>
+<area shape="rect" id="node7" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="648,63,864,107"/>
+<area shape="rect" id="node9" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="917,5,1080,49"/>
+<area shape="rect" id="node13" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="912,122,1085,166"/>
+<area shape="rect" id="node17" href="$a00201_a98553f6447242cc43e93aa9e9a6fd497.html#a98553f6447242cc43e93aa9e9a6fd497" title="returns the union of two sets" alt="" coords="932,71,1065,99"/>
+<area shape="rect" id="node11" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="1140,13,1313,41"/>
+<area shape="rect" id="node15" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="1135,130,1319,158"/>
+<area shape="rect" id="node23" href="$a00086_a0d3e0f5e44ebdbb8371fc4afe7ac4d3f.html#a0d3e0f5e44ebdbb8371fc4afe7ac4d3f" title="returns the meta information if available" alt="" coords="415,770,575,814"/>
+<area shape="rect" id="node26" href="$a00086_a6f17da4ae3a1a65f419438b3e7895282.html#a6f17da4ae3a1a65f419438b3e7895282" title="get places" alt="" coords="409,298,580,326"/>
+<area shape="rect" id="node28" href="$a00086_a3352e50376291412460de0638a5a47a5.html#a3352e50376291412460de0638a5a47a5" title="get transitions" alt="" coords="397,349,592,377"/>
+<area shape="rect" id="node30" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="404,399,585,427"/>
+<area shape="rect" id="node35" href="$a00030_a5a437b7d2bb98de2ea555db5e7f0a0c6.html#a5a437b7d2bb98de2ea555db5e7f0a0c6" title="returning synchronous labels" alt="" coords="391,231,599,275"/>
+<area shape="rect" id="node39" href="$a00188_abb6f1f0e00884832f37d6b7b9a5329aa.html#abb6f1f0e00884832f37d6b7b9a5329aa" title="create a stream manipulator" alt="" coords="431,719,559,747"/>
+<area shape="rect" id="node41" href="$a00188_abc0b9be71cb773b980512af08acc3fe7.html#abc0b9be71cb773b980512af08acc3fe7" title="create a stream manipulator" alt="" coords="429,669,560,697"/>
+<area shape="rect" id="node43" href="$a00086_a396370185497ee843e089dd5565c43ae.html#a396370185497ee843e089dd5565c43ae" title="get the final condition" alt="" coords="416,450,573,494"/>
+<area shape="rect" id="node45" href="$a00030_a504508d99f53b2a512e39b164e14a6a5.html#a504508d99f53b2a512e39b164e14a6a5" title="if there is no port or label defined" alt="" coords="413,517,576,545"/>
+<area shape="rect" id="node37" href="$a00089_afdac03d99f91ef34d83d3f6f40eb9a48.html#afdac03d99f91ef34d83d3f6f40eb9a48" title="returning the set of synchronous label" alt="" coords="665,231,847,275"/>
+<area shape="rect" id="node52" href="$a00188_a665cac274252490d08b2ab1797c492c6.html#a665cac274252490d08b2ab1797c492c6" title="filter places with a marking &gt; 0" alt="" coords="412,938,577,982"/>
+<area shape="rect" id="node54" href="$a00181_ad15eb7ebc339060a96ec0cbba498df33.html#ad15eb7ebc339060a96ec0cbba498df33" title="makes the stream write also final condition formulae" alt="" coords="436,837,553,865"/>
+<area shape="rect" id="node59" href="$a00181_a00904d951119961dd9d0279c60e8156f.html#a00904d951119961dd9d0279c60e8156f" title="writes output type to stream" alt="" coords="447,1005,543,1033"/>
+<area shape="rect" id="node61" href="$a00181_a7ecf64948e2f363a4d737215376a466e.html#a7ecf64948e2f363a4d737215376a466e" title="writes output type to stream" alt="" coords="444,887,545,915"/>
+<area shape="rect" id="node67" href="$a00181_add31b6dfee33593378005d419aeb087f.html#add31b6dfee33593378005d419aeb087f" title="writes output type to stream" alt="" coords="444,1373,545,1401"/>
+<area shape="rect" id="node71" href="$a00188_af30c61cad8e0fa0a23336da331048feb.html#af30c61cad8e0fa0a23336da331048feb" title="pnapi::io::util::groupPlaces\lByCapacity" alt="" coords="409,1055,580,1099"/>
+<area shape="rect" id="node74" href="$a00007_a8372981be7a29b9ea7eb9a951814be5d.html#a8372981be7a29b9ea7eb9a951814be5d" title="returns a set of places, which don&#39;t have to be empty" alt="" coords="404,1122,585,1166"/>
+<area shape="rect" id="node78" href="$a00007_a3476a377f05909ba4bd81384debc3de1.html#a3476a377f05909ba4bd81384debc3de1" title="returns the formula" alt="" coords="403,1189,587,1217"/>
+<area shape="rect" id="node80" href="$a00016_a70e6ffed14d48864df507edc92dd5875.html#a70e6ffed14d48864df507edc92dd5875" title="set of places implied to be empty" alt="" coords="417,1239,572,1283"/>
+<area shape="rect" id="node82" href="$a00007_aaec1d3eb9edc96a0444b9986460131a0.html#aaec1d3eb9edc96a0444b9986460131a0" title="removes a place recursively" alt="" coords="413,1306,576,1350"/>
+<area shape="rect" id="node76" href="$a00016_a3741380c06f4edec83baf7c38fabcfe3.html#a3741380c06f4edec83baf7c38fabcfe3" title="set of concerning places" alt="" coords="679,1122,833,1166"/>
+<area shape="rect" id="node84" href="$a00016_a3da5d326c75cc35c34f4916f6a0d3b06.html#a3da5d326c75cc35c34f4916f6a0d3b06" title="removes a place recursively" alt="" coords="679,1306,833,1350"/>
+</map>

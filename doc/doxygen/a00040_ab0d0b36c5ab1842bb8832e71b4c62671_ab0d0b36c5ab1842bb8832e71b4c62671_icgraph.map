@@ -1,0 +1,9 @@
+<map id="pnapi::Node::getPetriNet" name="pnapi::Node::getPetriNet">
+<area shape="rect" id="node3" href="$a00027_a7a7bf67e85538e3bc0df9e0c50fbc145.html#a7a7bf67e85538e3bc0df9e0c50fbc145" title="constructor" alt="" coords="239,5,396,49"/>
+<area shape="rect" id="node5" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="240,71,395,115"/>
+<area shape="rect" id="node7" href="$a00092_a026a0e62149b17bf1424dcca0747f69d.html#a026a0e62149b17bf1424dcca0747f69d" title="inform net about new node" alt="" coords="217,138,417,182"/>
+<area shape="rect" id="node9" href="$a00092_ab91137f88299a712cb36b2c48c0a67d3.html#ab91137f88299a712cb36b2c48c0a67d3" title="inform the net about new place" alt="" coords="468,105,668,149"/>
+<area shape="rect" id="node13" href="$a00092_a14055d1fb746044bcb42d94fcbc65c88.html#a14055d1fb746044bcb42d94fcbc65c88" title="inform the net about new transition" alt="" coords="468,171,668,215"/>
+<area shape="rect" id="node11" href="$a00088_a999de3bc14ad32dddc3812629692b5ac.html#a999de3bc14ad32dddc3812629692b5ac" title="constructor" alt="" coords="717,113,848,141"/>
+<area shape="rect" id="node15" href="$a00091_ae8d6e5e4a119fc64574865708dc08ec9.html#ae8d6e5e4a119fc64574865708dc08ec9" title="constructor" alt="" coords="724,171,841,215"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pnapi::Interface::addOutputLabel" name="pnapi::Interface::addOutputLabel">
+<area shape="rect" id="node3" href="$a00089_a6971b10c99ddc20ad5dfbaa9bb343f9c.html#a6971b10c99ddc20ad5dfbaa9bb343f9c" title="adding an output label" alt="" coords="229,5,411,33"/>
+<area shape="rect" id="node5" href="$a00030_acef32e25ff1e4829bdb8cc6ef9166a85.html#acef32e25ff1e4829bdb8cc6ef9166a85" title="adding a single port" alt="" coords="240,55,400,83"/>
+<area shape="rect" id="node7" href="$a00030_a4255c34997a2b27ae3d0dd1dd170d5f1.html#a4255c34997a2b27ae3d0dd1dd170d5f1" title="generate unused port name" alt="" coords="237,106,403,150"/>
+</map>

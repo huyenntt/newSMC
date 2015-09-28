@@ -1,0 +1,5 @@
+<map id="pnapi::PetriNet::createArcs" name="pnapi::PetriNet::createArcs">
+<area shape="rect" id="node3" href="$a00006_ae28026de15e84a47be56403ed9c3b74b.html#ae28026de15e84a47be56403ed9c3b74b" title="place" alt="" coords="255,5,391,33"/>
+<area shape="rect" id="node5" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="229,55,416,83"/>
+<area shape="rect" id="node7" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="233,106,412,134"/>
+</map>

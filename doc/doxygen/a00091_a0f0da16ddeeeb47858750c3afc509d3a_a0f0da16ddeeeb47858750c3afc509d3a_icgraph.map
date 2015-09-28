@@ -1,0 +1,13 @@
+<map id="pnapi::Transition::getLabels" name="pnapi::Transition::getLabels">
+<area shape="rect" id="node3" href="$a00115_a1804e7bc101fe9fba8686aaa063f9bdd.html#a1804e7bc101fe9fba8686aaa063f9bdd" title="transition output" alt="" coords="179,5,328,33"/>
+<area shape="rect" id="node5" href="$a00184_a4ab200d54db99b0d3dc7aae4a1f92c8c.html#a4ab200d54db99b0d3dc7aae4a1f92c8c" title="transition output" alt="" coords="193,55,313,99"/>
+<area shape="rect" id="node7" href="$a00183_aa1330e676f2f196edf4b9c9e2770c5c7.html#aa1330e676f2f196edf4b9c9e2770c5c7" title="transition output" alt="" coords="193,122,313,166"/>
+<area shape="rect" id="node9" href="$a00086_ace1a1ec82ae68c7fcfb19c0bef95b8fb.html#ace1a1ec82ae68c7fcfb19c0bef95b8fb" title="product with Constraint oWFN" alt="" coords="175,189,332,217"/>
+<area shape="rect" id="node11" href="$a00086_a9c284e055a0f703a698f3d7c52463922.html#a9c284e055a0f703a698f3d7c52463922" title="elimination of identical transitions" alt="" coords="381,215,533,259"/>
+<area shape="rect" id="node15" href="$a00086_ac23afcb0fd2f9f84b2a506f172c95874.html#ac23afcb0fd2f9f84b2a506f172c95874" title="equality check for rule 4" alt="" coords="177,290,329,334"/>
+<area shape="rect" id="node20" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="381,349,533,393"/>
+<area shape="rect" id="node23" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="381,415,533,459"/>
+<area shape="rect" id="node26" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="381,482,533,526"/>
+<area shape="rect" id="node13" href="$a00086_a34d46cfd32f09242aa2b20c119ee902c.html#a34d46cfd32f09242aa2b20c119ee902c" title="applies structral reduction rules" alt="" coords="581,357,733,385"/>
+<area shape="rect" id="node17" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="381,282,533,326"/>
+</map>

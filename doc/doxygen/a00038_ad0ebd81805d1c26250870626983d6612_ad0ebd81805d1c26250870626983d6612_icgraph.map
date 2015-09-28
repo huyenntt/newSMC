@@ -1,0 +1,12 @@
+<map id="pnapi::Label::getType" name="pnapi::Label::getType">
+<area shape="rect" id="node3" href="$a00089_a64d336268f60f8dc4c8b29d3f0c4f668.html#a64d336268f60f8dc4c8b29d3f0c4f668" title="adding a label" alt="" coords="209,106,351,134"/>
+<area shape="rect" id="node5" href="$a00030_a64f00fc87c803a133845f21330fe0af9.html#a64f00fc87c803a133845f21330fe0af9" title="compose constructor" alt="" coords="425,5,591,33"/>
+<area shape="rect" id="node9" href="$a00051_af21a335717cd5763290febb7acac08cc.html#af21a335717cd5763290febb7acac08cc" title="pnapi::parser::owfn\l::yy::BisonParser::parse" alt="" coords="431,207,585,251"/>
+<area shape="rect" id="node16" href="$a00115_ac6592184bed9e21a9f2a6d84f81dbbd8.html#ac6592184bed9e21a9f2a6d84f81dbbd8" title="label output" alt="" coords="205,207,355,235"/>
+<area shape="rect" id="node18" href="$a00184_ae4440739bbcc208b8230721a813d1381.html#ae4440739bbcc208b8230721a813d1381" title="label output" alt="" coords="220,258,340,302"/>
+<area shape="rect" id="node21" href="$a00089_ab298879484919b8a0e64aa7c4ab74c73.html#ab298879484919b8a0e64aa7c4ab74c73" title="deleting a label" alt="" coords="199,325,361,353"/>
+<area shape="rect" id="node23" href="$a00091_ab3264133772f504086d0c7e03de1caed.html#ab3264133772f504086d0c7e03de1caed" title="updates the type" alt="" coords="221,375,339,419"/>
+<area shape="rect" id="node7" href="$a00030_a4390db5d72ab997720b0185e04958316.html#a4390db5d72ab997720b0185e04958316" title="merge two ports" alt="" coords="417,55,599,83"/>
+<area shape="rect" id="node11" href="$a00086_a29216872f8014b80516292d0c5dacd6a.html#a29216872f8014b80516292d0c5dacd6a" title="adds the structure of a second net" alt="" coords="412,106,604,134"/>
+<area shape="rect" id="node13" href="$a00089_ab3bfcf6513fb63f163cdbbfd0925cdd8.html#ab3bfcf6513fb63f163cdbbfd0925cdd8" title="adding a label with a given type" alt="" coords="437,157,579,185"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pnapi::util::ComponentObserver::updatePlaces" name="pnapi::util::ComponentObserver::updatePlaces">
+<area shape="rect" id="node3" href="$a00092_a026a0e62149b17bf1424dcca0747f69d.html#a026a0e62149b17bf1424dcca0747f69d" title="inform net about new node" alt="" coords="257,123,457,167"/>
+<area shape="rect" id="node5" href="$a00086_a5e4ddb085f1f2120e375c32a8bd25621.html#a5e4ddb085f1f2120e375c32a8bd25621" title="whether net contains given node" alt="" coords="512,5,704,33"/>
+<area shape="rect" id="node7" href="$a00030_abf3b377e79aa82641ab1e6546e11558b.html#abf3b377e79aa82641ab1e6546e11558b" title="find a certain label" alt="" coords="524,55,692,83"/>
+<area shape="rect" id="node9" href="$a00086_a98865553a90b545d72dc5dc1b679bfdb.html#a98865553a90b545d72dc5dc1b679bfdb" title="get the interface" alt="" coords="517,106,699,134"/>
+<area shape="rect" id="node11" href="$a00040_a2ffba0b7a8e7292d409eb7f24566defe.html#a2ffba0b7a8e7292d409eb7f24566defe" title="returns the name of the node" alt="" coords="757,211,907,239"/>
+<area shape="rect" id="node13" href="$a00040_ab0d0b36c5ab1842bb8832e71b4c62671.html#ab0d0b36c5ab1842bb8832e71b4c62671" title="returns the petri net this node belongs to" alt="" coords="527,207,689,235"/>
+<area shape="rect" id="node15" href="$a00092_a0950c8302cd21dae26017663887382ce.html#a0950c8302cd21dae26017663887382ce" title="make a node accessable in a net by its name" alt="" coords="508,258,708,302"/>
+</map>

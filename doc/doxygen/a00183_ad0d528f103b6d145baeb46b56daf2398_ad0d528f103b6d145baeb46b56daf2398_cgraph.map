@@ -1,0 +1,16 @@
+<map id="pnapi::io::__owfn::output" name="pnapi::io::__owfn::output">
+<area shape="rect" id="node3" href="$a00007_a8372981be7a29b9ea7eb9a951814be5d.html#a8372981be7a29b9ea7eb9a951814be5d" title="returns a set of places, which don&#39;t have to be empty" alt="" coords="175,5,356,49"/>
+<area shape="rect" id="node7" href="$a00188_abb6f1f0e00884832f37d6b7b9a5329aa.html#abb6f1f0e00884832f37d6b7b9a5329aa" title="create a stream manipulator" alt="" coords="201,71,329,99"/>
+<area shape="rect" id="node9" href="$a00188_a665cac274252490d08b2ab1797c492c6.html#a665cac274252490d08b2ab1797c492c6" title="filter places with a marking &gt; 0" alt="" coords="183,122,348,166"/>
+<area shape="rect" id="node11" href="$a00016_a70e6ffed14d48864df507edc92dd5875.html#a70e6ffed14d48864df507edc92dd5875" title="set of places implied to be empty" alt="" coords="188,189,343,233"/>
+<area shape="rect" id="node13" href="$a00007_a3476a377f05909ba4bd81384debc3de1.html#a3476a377f05909ba4bd81384debc3de1" title="returns the formula" alt="" coords="173,255,357,283"/>
+<area shape="rect" id="node15" href="$a00086_a0d3e0f5e44ebdbb8371fc4afe7ac4d3f.html#a0d3e0f5e44ebdbb8371fc4afe7ac4d3f" title="returns the meta information if available" alt="" coords="185,306,345,350"/>
+<area shape="rect" id="node19" href="$a00188_af30c61cad8e0fa0a23336da331048feb.html#af30c61cad8e0fa0a23336da331048feb" title="pnapi::io::util::groupPlaces\lByCapacity" alt="" coords="180,373,351,417"/>
+<area shape="rect" id="node21" href="$a00188_abc0b9be71cb773b980512af08acc3fe7.html#abc0b9be71cb773b980512af08acc3fe7" title="create a stream manipulator" alt="" coords="200,439,331,467"/>
+<area shape="rect" id="node23" href="$a00181_add31b6dfee33593378005d419aeb087f.html#add31b6dfee33593378005d419aeb087f" title="writes output type to stream" alt="" coords="215,490,316,518"/>
+<area shape="rect" id="node25" href="$a00007_aaec1d3eb9edc96a0444b9986460131a0.html#aaec1d3eb9edc96a0444b9986460131a0" title="removes a place recursively" alt="" coords="184,541,347,585"/>
+<area shape="rect" id="node29" href="$a00181_a00904d951119961dd9d0279c60e8156f.html#a00904d951119961dd9d0279c60e8156f" title="writes output type to stream" alt="" coords="217,607,313,635"/>
+<area shape="rect" id="node5" href="$a00016_a3741380c06f4edec83baf7c38fabcfe3.html#a3741380c06f4edec83baf7c38fabcfe3" title="set of concerning places" alt="" coords="413,5,568,49"/>
+<area shape="rect" id="node17" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="407,306,575,350"/>
+<area shape="rect" id="node27" href="$a00016_a3da5d326c75cc35c34f4916f6a0d3b06.html#a3da5d326c75cc35c34f4916f6a0d3b06" title="removes a place recursively" alt="" coords="413,541,568,585"/>
+</map>

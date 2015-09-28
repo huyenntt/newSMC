@@ -1,0 +1,15 @@
+<map id="pnapi::PetriNet::compose" name="pnapi::PetriNet::compose">
+<area shape="rect" id="node3" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="267,55,384,99"/>
+<area shape="rect" id="node11" href="$a00007_a1bd283963551188e5f203a291fd056c0.html#a1bd283963551188e5f203a291fd056c0" title="conjuncts two conditions" alt="" coords="241,130,409,158"/>
+<area shape="rect" id="node17" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="241,181,409,209"/>
+<area shape="rect" id="node19" href="$a00086_a0b57ec2e2b2d808084cae78a062d9c10.html#a0b57ec2e2b2d808084cae78a062d9c10" title="creates a Place" alt="" coords="235,231,416,259"/>
+<area shape="rect" id="node23" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="223,282,428,310"/>
+<area shape="rect" id="node26" href="$a00091_a96766b15418d4cdb7726837b2a3943f6.html#a96766b15418d4cdb7726837b2a3943f6" title="set transition cost" alt="" coords="267,333,384,377"/>
+<area shape="rect" id="node28" href="$a00201_ac2c21d089c3576e172b142374d232a77.html#ac2c21d089c3576e172b142374d232a77" title="returns the intersection of two sets" alt="" coords="241,399,409,427"/>
+<area shape="rect" id="node5" href="$a00038_a99ee9f448dd7fe251818c909dfc4ef5d.html#a99ee9f448dd7fe251818c909dfc4ef5d" title="adding a transition to the attached transitions" alt="" coords="483,5,656,33"/>
+<area shape="rect" id="node7" href="$a00091_ad244d842f55fb076f02301bed25eb3a5.html#ad244d842f55fb076f02301bed25eb3a5" title="updates the type" alt="" coords="511,55,628,99"/>
+<area shape="rect" id="node9" href="$a00091_a7746550b0e3ffad9d0a81fc56d822cde.html#a7746550b0e3ffad9d0a81fc56d822cde" title="changes the type of this transition" alt="" coords="711,55,828,99"/>
+<area shape="rect" id="node13" href="$a00016_af358d45de7cfe4744de3785de41ce71a.html#af358d45de7cfe4744de3785de41ce71a" title="create a deep copy of the formula" alt="" coords="492,122,647,166"/>
+<area shape="rect" id="node15" href="$a00007_a3476a377f05909ba4bd81384debc3de1.html#a3476a377f05909ba4bd81384debc3de1" title="returns the formula" alt="" coords="477,189,661,217"/>
+<area shape="rect" id="node21" href="$a00086_a925551ff5688c945dfecb5741ca4be36.html#a925551ff5688c945dfecb5741ca4be36" title="returns a name for a node to be added" alt="" coords="484,257,655,301"/>
+</map>

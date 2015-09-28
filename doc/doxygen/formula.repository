@@ -1,0 +1,4 @@
+\form#0:\[p \in (P_{in} \cup P_{out}) : p \in ^*t \cup t^*\]
+\form#1:$a \cup b$
+\form#2:$a \cap b$
+\form#3:$a \;\backslash\; b$

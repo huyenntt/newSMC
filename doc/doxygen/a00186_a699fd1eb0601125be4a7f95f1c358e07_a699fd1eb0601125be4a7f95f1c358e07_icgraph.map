@@ -1,0 +1,7 @@
+<map id="pnapi::io::__stat::output" name="pnapi::io::__stat::output">
+<area shape="rect" id="node3" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="169,5,375,33"/>
+<area shape="rect" id="node5" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="425,30,585,58"/>
+<area shape="rect" id="node7" href="$a00181_a14141fee5d0a3acc8aace5d18d6cce5e.html#a14141fee5d0a3acc8aace5d18d6cce5e" title="PetriNet output" alt="" coords="436,131,575,159"/>
+<area shape="rect" id="node9" href="$a00188_a64f16b18a535a0e86fbe6013c08d62d0.html#a64f16b18a535a0e86fbe6013c08d62d0" title="pnapi::io::util::operator\&lt;\&lt;" alt="" coords="192,157,352,185"/>
+<area shape="rect" id="node11" href="$a00115_aff65598e834e958c5fc72f75fc660466.html#aff65598e834e958c5fc72f75fc660466" title="output net" alt="" coords="197,207,347,235"/>
+</map>

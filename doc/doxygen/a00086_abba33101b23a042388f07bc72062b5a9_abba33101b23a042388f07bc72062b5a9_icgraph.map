@@ -1,0 +1,4 @@
+<map id="pnapi::PetriNet::remap" name="pnapi::PetriNet::remap">
+<area shape="rect" id="node3" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="204,5,409,33"/>
+<area shape="rect" id="node5" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="460,5,620,33"/>
+</map>

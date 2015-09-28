@@ -1,0 +1,13 @@
+<map id="petrinet.cc" name="petrinet.cc">
+<area shape="rect" id="node3" href="$a00104.html" title="config.h" alt="" coords="308,470,375,498"/>
+<area shape="rect" id="node7" href="$a00168.html" title="assertion makros" alt="" coords="43,315,144,343"/>
+<area shape="rect" id="node17" href="$a00167.html" title="Class PetriNet." alt="" coords="309,83,384,111"/>
+<area shape="rect" id="node38" href="$a00175.html" title="utility functions" alt="" coords="1005,393,1053,421"/>
+<area shape="rect" id="node10" href="$a00106.html" title="exception classes" alt="" coords="219,393,304,421"/>
+<area shape="rect" id="node20" href="$a00101.html" title="Nodes and Arcs for Petri nets." alt="" coords="885,393,981,421"/>
+<area shape="rect" id="node29" href="$a00103.html" title="condition.h" alt="" coords="524,161,607,189"/>
+<area shape="rect" id="node54" href="$a00113.html" title="Class Interface." alt="" coords="429,315,512,343"/>
+<area shape="rect" id="node32" href="$a00109.html" title="formula.h" alt="" coords="488,238,563,266"/>
+<area shape="rect" id="node35" href="$a00119.html" title="Input/Output related Structures." alt="" coords="659,315,717,343"/>
+<area shape="rect" id="node57" href="$a00172.html" title="Class Port." alt="" coords="581,393,635,421"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pnapi::Node::isParallel" name="pnapi::Node::isParallel">
+<area shape="rect" id="node3" href="$a00091_aa004b9fe259e3a190fe8e5dee468b14a.html#aa004b9fe259e3a190fe8e5dee468b14a" title="compare interface labels with given transition" alt="" coords="224,5,341,49"/>
+<area shape="rect" id="node5" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="207,71,359,99"/>
+<area shape="rect" id="node9" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="204,122,361,150"/>
+<area shape="rect" id="node11" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="207,173,359,201"/>
+<area shape="rect" id="node13" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="212,223,353,251"/>
+<area shape="rect" id="node7" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="411,71,597,99"/>
+</map>

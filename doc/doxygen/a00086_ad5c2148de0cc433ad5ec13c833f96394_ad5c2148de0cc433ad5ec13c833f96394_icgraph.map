@@ -1,0 +1,5 @@
+<map id="pnapi::PetriNet::findPlace" name="pnapi::PetriNet::findPlace">
+<area shape="rect" id="node3" href="$a00086_a32babfa14efb8ab1b349ad6c3a420064.html#a32babfa14efb8ab1b349ad6c3a420064" title="creates a petri net from an STG file" alt="" coords="223,5,428,33"/>
+<area shape="rect" id="node7" href="$a00086_a06df5ec8b999fdaad5ecb26d572d297d.html#a06df5ec8b999fdaad5ecb26d572d297d" title="guess a place relation" alt="" coords="235,55,416,99"/>
+<area shape="rect" id="node5" href="$a00086_ae9d047649d3cf300adc279d5fa623f98.html#ae9d047649d3cf300adc279d5fa623f98" title="constructor Automaton =&gt; Petri net" alt="" coords="479,5,639,33"/>
+</map>

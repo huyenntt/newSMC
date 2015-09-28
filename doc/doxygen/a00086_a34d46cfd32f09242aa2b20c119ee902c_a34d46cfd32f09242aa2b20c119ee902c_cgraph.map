@@ -1,0 +1,51 @@
+<map id="pnapi::PetriNet::reduce" name="pnapi::PetriNet::reduce">
+<area shape="rect" id="node3" href="$a00086_a57a3a474006cc5ac62eb18446314fd1b.html#a57a3a474006cc5ac62eb18446314fd1b" title="remove dead nodes of the Petri net" alt="" coords="219,1021,371,1065"/>
+<area shape="rect" id="node21" href="$a00086_a048ac2b88ae56ca194d3cd24628c6b4b.html#a048ac2b88ae56ca194d3cd24628c6b4b" title="elimination of identical places" alt="" coords="219,2007,371,2051"/>
+<area shape="rect" id="node23" href="$a00086_a1f574589a29da2cbef3e730741ebb263.html#a1f574589a29da2cbef3e730741ebb263" title="elimination of identical places" alt="" coords="219,523,371,567"/>
+<area shape="rect" id="node37" href="$a00086_a9c284e055a0f703a698f3d7c52463922.html#a9c284e055a0f703a698f3d7c52463922" title="elimination of identical transitions" alt="" coords="219,887,371,931"/>
+<area shape="rect" id="node46" href="$a00086_a2a4917b0582ffa655f8ca08362cda025.html#a2a4917b0582ffa655f8ca08362cda025" title="remove unneeded initially marked places in choreographies" alt="" coords="205,2074,384,2134"/>
+<area shape="rect" id="node48" href="$a00086_a44dfee7b8aae746c52eece297edf784c.html#a44dfee7b8aae746c52eece297edf784c" title="elimination of parallel places" alt="" coords="219,687,371,731"/>
+<area shape="rect" id="node57" href="$a00086_a8275854f8b26439619919dbcc114a963.html#a8275854f8b26439619919dbcc114a963" title="elimination of parallel transitions" alt="" coords="219,821,371,865"/>
+<area shape="rect" id="node64" href="$a00086_a5c4a85c10f8ebf2a3ef2752cc725581c.html#a5c4a85c10f8ebf2a3ef2752cc725581c" title="elimination of equal places" alt="" coords="219,1698,371,1742"/>
+<area shape="rect" id="node98" href="$a00086_a0d640e500c0f0c52a5a25d3de806126e.html#a0d640e500c0f0c52a5a25d3de806126e" title="fusion of pre&#45; with posttransition (m to n)" alt="" coords="219,1874,371,1918"/>
+<area shape="rect" id="node131" href="$a00086_acc1733c7272b2e9015ec7848f7c8a1e8.html#acc1733c7272b2e9015ec7848f7c8a1e8" title="fusion of pre&#45; with posttransition (1 to n)" alt="" coords="219,1495,371,1539"/>
+<area shape="rect" id="node149" href="$a00086_a2a7e6976e86d531db43c6d1106ade6fd.html#a2a7e6976e86d531db43c6d1106ade6fd" title="elimination of self&#45;loop places" alt="" coords="219,954,371,998"/>
+<area shape="rect" id="node159" href="$a00086_a736706f12ab9243164a53cd4b67bad5a.html#a736706f12ab9243164a53cd4b67bad5a" title="elimination of self&#45;loop transitions" alt="" coords="219,1941,371,1985"/>
+<area shape="rect" id="node165" href="$a00086_ab9f744dc9551578ecc30cd42182dfb48.html#ab9f744dc9551578ecc30cd42182dfb48" title="fusion of pre&#45; with postplaces" alt="" coords="219,1807,371,1851"/>
+<area shape="rect" id="node184" href="$a00086_ada8a6e1ccf8105556b691d9e4a64bfc9.html#ada8a6e1ccf8105556b691d9e4a64bfc9" title="elimination of self&#45;loop places" alt="" coords="219,754,371,798"/>
+<area shape="rect" id="node190" href="$a00086_ae2a6e75597454ec573eaa3c073848b0f.html#ae2a6e75597454ec573eaa3c073848b0f" title="elimination of self&#45;loop transitions" alt="" coords="219,1154,371,1198"/>
+<area shape="rect" id="node195" href="$a00086_a876ae814840f6d462c2646f47ca87a8d.html#a876ae814840f6d462c2646f47ca87a8d" title="fusion of series places" alt="" coords="219,1087,371,1131"/>
+<area shape="rect" id="node208" href="$a00086_a2d0d25e13da2b8674e2c87dacd4215c6.html#a2d0d25e13da2b8674e2c87dacd4215c6" title="fusion of series transitions" alt="" coords="219,1287,371,1331"/>
+<area shape="rect" id="node227" href="$a00086_a2247cde3ad8239ad68fcab1d5523b957.html#a2247cde3ad8239ad68fcab1d5523b957" title="remove transitions with empty pre or postset" alt="" coords="216,1221,373,1265"/>
+<area shape="rect" id="node230" href="$a00086_a316b5cb29df85359fffd8b1c8aaefc76.html#a316b5cb29df85359fffd8b1c8aaefc76" title="remove unused status places" alt="" coords="216,621,373,665"/>
+<area shape="rect" id="node5" href="$a00086_a19c6cfa0999ac0f4ec02a67a72e0598f.html#a19c6cfa0999ac0f4ec02a67a72e0598f" title="deletes a place" alt="" coords="445,762,627,790"/>
+<area shape="rect" id="node7" href="$a00086_a6e5464dea706f8c174c8aeb553d2f6a1.html#a6e5464dea706f8c174c8aeb553d2f6a1" title="deletes a transition" alt="" coords="433,1098,639,1126"/>
+<area shape="rect" id="node11" href="$a00087_a65d9bbdd8c03d65344f85bd8c2f6a0a7.html#a65d9bbdd8c03d65344f85bd8c2f6a0a7" title="remove a place from the cache" alt="" coords="451,863,621,907"/>
+<area shape="rect" id="node17" href="$a00087_a44312d1dce618811b321248466f44623.html#a44312d1dce618811b321248466f44623" title="remove a transition from the cache" alt="" coords="451,1031,621,1075"/>
+<area shape="rect" id="node9" href="$a00091_a13db2855e9acfbf9c3565984f59b5c87.html#a13db2855e9acfbf9c3565984f59b5c87" title="returns true, if the transition is associated to at least one synchronous label" alt="" coords="709,1415,827,1459"/>
+<area shape="rect" id="node13" href="$a00040_a865086ca26a43fd24e2d46d6dce9dab0.html#a865086ca26a43fd24e2d46d6dce9dab0" title="returns the node&#39;s preset" alt="" coords="692,930,844,958"/>
+<area shape="rect" id="node15" href="$a00040_a1e0a7cae7578c6d5b3369d2951a461ab.html#a1e0a7cae7578c6d5b3369d2951a461ab" title="returns the node&#39;s postset" alt="" coords="689,1039,847,1067"/>
+<area shape="rect" id="node25" href="$a00087_ac727344c719bf942674474dc961c887d.html#ac727344c719bf942674474dc961c887d" title="add a place to the cache" alt="" coords="451,493,621,537"/>
+<area shape="rect" id="node32" href="$a00040_a6a2dd82eefc6f0e61e4fc19ecf7c368e.html#a6a2dd82eefc6f0e61e4fc19ecf7c368e" title="merges the histories of two nodes" alt="" coords="432,930,640,958"/>
+<area shape="rect" id="node35" href="$a00007_a85524d3dd6208e40abeaa6574848a4eb.html#a85524d3dd6208e40abeaa6574848a4eb" title="replace place references" alt="" coords="456,5,616,49"/>
+<area shape="rect" id="node40" href="$a00091_a0f0da16ddeeeb47858750c3afc509d3a.html#a0f0da16ddeeeb47858750c3afc509d3a" title="get mapping of interface labels to their weight" alt="" coords="709,1597,827,1641"/>
+<area shape="rect" id="node53" href="$a00088_aaf4cd8ea1258104cc23340561985f881.html#aaf4cd8ea1258104cc23340561985f881" title="returns the number of tokens lying on this place" alt="" coords="443,1706,629,1734"/>
+<area shape="rect" id="node67" href="$a00086_aa4da8ee1a2c769e804dc418fae899c28.html#aa4da8ee1a2c769e804dc418fae899c28" title="creates an Arc" alt="" coords="452,1757,620,1785"/>
+<area shape="rect" id="node69" href="$a00086_aa64f2ceb24f56cb2574bf8c414ba053d.html#aa64f2ceb24f56cb2574bf8c414ba053d" title="deletes an arc" alt="" coords="452,2226,620,2254"/>
+<area shape="rect" id="node73" href="$a00086_ac70f41f2e73eab362d836dc0900cdae3.html#ac70f41f2e73eab362d836dc0900cdae3" title="find an arc by its connected nodes" alt="" coords="692,2647,844,2675"/>
+<area shape="rect" id="node78" href="$a00040_a0395110b741963822cbccabd921d219a.html#a0395110b741963822cbccabd921d219a" title="returns the arcs to the node&#39;s preset" alt="" coords="447,1402,625,1430"/>
+<area shape="rect" id="node81" href="$a00006_aa49b4ebc74ecadd45f985651f22f594a.html#aa49b4ebc74ecadd45f985651f22f594a" title="weight" alt="" coords="697,1991,839,2019"/>
+<area shape="rect" id="node84" href="$a00086_ac23afcb0fd2f9f84b2a506f172c95874.html#ac23afcb0fd2f9f84b2a506f172c95874" title="equality check for rule 4" alt="" coords="460,1925,612,1969"/>
+<area shape="rect" id="node91" href="$a00201_a34dcb22af7703c0071b110005da855f8.html#a34dcb22af7703c0071b110005da855f8" title="returns the difference of two sets" alt="" coords="689,2378,847,2406"/>
+<area shape="rect" id="node96" href="$a00088_ab5e0c8f1467a6e8f6147c66cd5230bd8.html#ab5e0c8f1467a6e8f6147c66cd5230bd8" title="sets the number of tokens lying on this place" alt="" coords="443,2597,629,2625"/>
+<area shape="rect" id="node75" href="$a00040_aacb9885ef7f31ec020bbc61dfc299d12.html#aacb9885ef7f31ec020bbc61dfc299d12" title="returns the arcs to the node&#39;s postset" alt="" coords="896,2647,1083,2675"/>
+<area shape="rect" id="node100" href="$a00091_ad032f80d60703f36d65f7ebb51a6d3f9.html#ad032f80d60703f36d65f7ebb51a6d3f9" title="add an interface label" alt="" coords="477,2042,595,2086"/>
+<area shape="rect" id="node102" href="$a00087_a58e01b0ab685e4d6d80edb69dbf5ce25.html#a58e01b0ab685e4d6d80edb69dbf5ce25" title="add a transition to the cache" alt="" coords="451,1807,621,1851"/>
+<area shape="rect" id="node107" href="$a00086_aaf8158b180aba000f3ece160365fe8ee.html#aaf8158b180aba000f3ece160365fe8ee" title="creates a Transition" alt="" coords="433,2109,639,2137"/>
+<area shape="rect" id="node112" href="$a00091_acf04b883a9c69045f8c8f26c4818fc29.html#acf04b883a9c69045f8c8f26c4818fc29" title="the set of input labels" alt="" coords="477,2159,595,2203"/>
+<area shape="rect" id="node115" href="$a00091_a94ba6e79b6e2e408a1f874c6c2a9d231.html#a94ba6e79b6e2e408a1f874c6c2a9d231" title="the set of output labels" alt="" coords="476,2429,596,2473"/>
+<area shape="rect" id="node121" href="$a00086_afa6696cd7622f6d823312c3a064dc813.html#afa6696cd7622f6d823312c3a064dc813" title="check if the postset of a set is empty" alt="" coords="460,3119,612,3163"/>
+<area shape="rect" id="node123" href="$a00086_a065e65a3863d292be4336736274a09f2.html#a065e65a3863d292be4336736274a09f2" title="check if the preset of a set stores only one item" alt="" coords="460,3002,612,3046"/>
+<area shape="rect" id="node128" href="$a00201_ac2c21d089c3576e172b142374d232a77.html#ac2c21d089c3576e172b142374d232a77" title="returns the intersection of two sets" alt="" coords="452,981,620,1009"/>
+<area shape="rect" id="node153" href="$a00007_a0ca521cbf65e24f7ecd4581c9514fa69.html#a0ca521cbf65e24f7ecd4581c9514fa69" title="evaluates the formula partially and replaces propositions by constants" alt="" coords="452,426,620,470"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pnapi::io::util::operator&lt;&lt;" name="pnapi::io::util::operator&lt;&lt;">
+<area shape="rect" id="node3" href="$a00037_a646a93ca40bba79ac3208ac3d2c0b435.html#a646a93ca40bba79ac3208ac3d2c0b435" title="get data from stream" alt="" coords="217,5,385,49"/>
+<area shape="rect" id="node5" href="$a00186_a699fd1eb0601125be4a7f95f1c358e07.html#a699fd1eb0601125be4a7f95f1c358e07" title="output petri net statistics" alt="" coords="244,71,359,115"/>
+<area shape="rect" id="node7" href="$a00030_a4ef51c2515aa03707680f5b65b3c3a82.html#a4ef51c2515aa03707680f5b65b3c3a82" title="returning asynchronous labels (i.e. union of input and output places)" alt="" coords="435,71,651,115"/>
+<area shape="rect" id="node9" href="$a00030_a9bb9beff3c9a136ccc04ee3149173800.html#a9bb9beff3c9a136ccc04ee3149173800" title="returning input labels" alt="" coords="704,13,867,57"/>
+<area shape="rect" id="node13" href="$a00030_add4a95f043697f183928148898da0e51.html#add4a95f043697f183928148898da0e51" title="returning output labels" alt="" coords="699,130,872,174"/>
+<area shape="rect" id="node17" href="$a00201_a98553f6447242cc43e93aa9e9a6fd497.html#a98553f6447242cc43e93aa9e9a6fd497" title="returns the union of two sets" alt="" coords="719,79,852,107"/>
+<area shape="rect" id="node11" href="$a00089_afa5490afaf115868a53d9f39f6b3ef96.html#afa5490afaf115868a53d9f39f6b3ef96" title="returning the set of input labels" alt="" coords="927,21,1100,49"/>
+<area shape="rect" id="node15" href="$a00089_a5792c01da5a5f6b0ab50bb5c63e50e14.html#a5792c01da5a5f6b0ab50bb5c63e50e14" title="returning the set of output labels" alt="" coords="921,138,1105,166"/>
+</map>
